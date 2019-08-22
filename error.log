@@ -1,0 +1,1349 @@
+WARNING:django.request:Not Found: /uploadFile/wx5958ef33e1aeaf56.o6zAJs7eDvKwg0bUs9EWfBZf4Pz8.0l6v1UA72myW8ce19a79895cd9be40e897f6e363c325.jpg
+WARNING:django.request:Not Found: /uploadFile/receive/wx5958ef33e1aeaf56.o6zAJs7eDvKwg0bUs9EWfBZf4Pz8.0l6v1UA72myW8ce19a79895cd9be40e897f6e363c325.jpg
+WARNING:django.request:Not Found: /uploadFile/wxServer/receive/wx5958ef33e1aeaf56.o6zAJs7eDvKwg0bUs9EWfBZf4Pz8.0l6v1UA72myW8ce19a79895cd9be40e897f6e363c325.jpg
+ERROR:django.request:Internal Server Error: /uploadFile/
+Traceback (most recent call last):
+  File "D:\Progarm\Anaconda3\lib\site-packages\django\core\handlers\exception.py", line 34, in inner
+    response = get_response(request)
+  File "D:\Progarm\Anaconda3\lib\site-packages\django\core\handlers\base.py", line 126, in _get_response
+    "returned None instead." % (callback.__module__, view_name)
+ValueError: The view fileserver.views.uploadfile didn't return an HttpResponse object. It returned None instead.
+ERROR:django.request:Internal Server Error: /uploadFile/
+Traceback (most recent call last):
+  File "D:\Progarm\Anaconda3\lib\site-packages\django\core\handlers\exception.py", line 34, in inner
+    response = get_response(request)
+  File "D:\Progarm\Anaconda3\lib\site-packages\django\core\handlers\base.py", line 126, in _get_response
+    "returned None instead." % (callback.__module__, view_name)
+ValueError: The view fileserver.views.uploadfile didn't return an HttpResponse object. It returned None instead.
+INFO:django.utils.autoreload:D:\wxServer\fileserver\fileserver\settings.py changed, reloading.
+INFO:django.utils.autoreload:D:\wxServer\fileserver\fileserver\views.py changed, reloading.
+INFO:django.utils.autoreload:D:\wxServer\fileserver\fileserver\views.py changed, reloading.
+INFO:django.utils.autoreload:D:\wxServer\fileserver\fileserver\views.py changed, reloading.
+INFO:django.utils.autoreload:D:\wxServer\fileserver\fileserver\views.py changed, reloading.
+INFO:django.utils.autoreload:D:\wxServer\fileserver\fileserver\views.py changed, reloading.
+INFO:django.utils.autoreload:D:\wxServer\fileserver\fileserver\views.py changed, reloading.
+INFO:django.utils.autoreload:D:\wxServer\fileserver\fileserver\views.py changed, reloading.
+WARNING:django.request:Not Found: /uploadFile/wx5958ef33e1aeaf56.o6zAJs7eDvKwg0bUs9EWfBZf4Pz8.7zHITwmMrNni8ce19a79895cd9be40e897f6e363c325.jpg_bh.png
+INFO:django.utils.autoreload:D:\wxServer\fileserver\fileserver\views.py changed, reloading.
+INFO:django.utils.autoreload:D:\wxServer\fileserver\fileserver\views.py changed, reloading.
+INFO:django.utils.autoreload:D:\wxServer\fileserver\fileserver\views.py changed, reloading.
+WARNING:django.request:Not Found: /uploadFile/wx5958ef33e1aeaf56.o6zAJs7eDvKwg0bUs9EWfBZf4Pz8.HM0gMBqUmhSG8ce19a79895cd9be40e897f6e363c325.jpg_bh.png
+WARNING:django.request:Not Found: /uploadFile/wx5958ef33e1aeaf56.o6zAJs7eDvKwg0bUs9EWfBZf4Pz8.HM0gMBqUmhSG8ce19a79895cd9be40e897f6e363c325.jpg_bh.png
+WARNING:django.request:Not Found: /favicon.ico
+WARNING:django.request:Not Found: /uploadFile/wx5958ef33e1aeaf56.o6zAJs7eDvKwg0bUs9EWfBZf4Pz8.HM0gMBqUmhSG8ce19a79895cd9be40e897f6e363c325.jpg_bh.png
+WARNING:django.request:Not Found: /uploadFile/wx5958ef33e1aeaf56.o6zAJs7eDvKwg0bUs9EWfBZf4Pz8.HM0gMBqUmhSG8ce19a79895cd9be40e897f6e363c325.jpg_bh.png
+WARNING:django.request:Not Found: /uploadFile/wx5958ef33e1aeaf56.o6zAJs7eDvKwg0bUs9EWfBZf4Pz8.HM0gMBqUmhSG8ce19a79895cd9be40e897f6e363c325.jpg_bh.png
+WARNING:django.request:Not Found: /uploadFile/wx5958ef33e1aeaf56.o6zAJs7eDvKwg0bUs9EWfBZf4Pz8.HM0gMBqUmhSG8ce19a79895cd9be40e897f6e363c325.jpg_bh.png
+INFO:django.utils.autoreload:D:\wxServer\fileserver\fileserver\views.py changed, reloading.
+INFO:django.utils.autoreload:D:\wxServer\fileserver\fileserver\views.py changed, reloading.
+INFO:django.utils.autoreload:D:\wxServer\fileserver\app\views.py changed, reloading.
+ERROR:django.request:Internal Server Error: /uploadFile/
+Traceback (most recent call last):
+  File "D:\Progarm\Anaconda3\lib\site-packages\django\core\handlers\exception.py", line 34, in inner
+    response = get_response(request)
+  File "D:\Progarm\Anaconda3\lib\site-packages\django\core\handlers\base.py", line 126, in _get_response
+    "returned None instead." % (callback.__module__, view_name)
+ValueError: The view app.views.uploadfile didn't return an HttpResponse object. It returned None instead.
+INFO:django.utils.autoreload:D:\wxServer\fileserver\app\views.py changed, reloading.
+ERROR:django.request:Internal Server Error: /download/
+Traceback (most recent call last):
+  File "D:\Progarm\Anaconda3\lib\site-packages\django\core\handlers\exception.py", line 34, in inner
+    response = get_response(request)
+  File "D:\Progarm\Anaconda3\lib\site-packages\django\core\handlers\base.py", line 115, in _get_response
+    response = self.process_exception_by_middleware(e, request)
+  File "D:\Progarm\Anaconda3\lib\site-packages\django\core\handlers\base.py", line 113, in _get_response
+    response = wrapped_callback(request, *callback_args, **callback_kwargs)
+TypeError: download() takes 0 positional arguments but 1 was given
+INFO:django.utils.autoreload:D:\wxServer\fileserver\app\views.py changed, reloading.
+ERROR:root:Unable to save D:\wxServer\receive\wx5958ef33e1aeaf56.o6zAJs7eDvKwg0bUs9EWfBZf4Pz8.EaiKBXS3QaT68ce19a79895cd9be40e897f6e363c325.jpg_no_bg.png due to missing api key
+ERROR:django.request:Internal Server Error: /api/
+Traceback (most recent call last):
+  File "D:\Progarm\Anaconda3\lib\site-packages\django\core\handlers\exception.py", line 34, in inner
+    response = get_response(request)
+  File "D:\Progarm\Anaconda3\lib\site-packages\django\core\handlers\base.py", line 126, in _get_response
+    "returned None instead." % (callback.__module__, view_name)
+ValueError: The view app.views.bg_api didn't return an HttpResponse object. It returned None instead.
+WARNING:django.request:Not Found: /download/wx5958ef33e1aeaf56.o6zAJs7eDvKwg0bUs9EWfBZf4Pz8.EaiKBXS3QaT68ce19a79895cd9be40e897f6e363c325.jpgsy.png
+WARNING:django.request:Not Found: /download/wx5958ef33e1aeaf56.o6zAJs7eDvKwg0bUs9EWfBZf4Pz8.EaiKBXS3QaT68ce19a79895cd9be40e897f6e363c325.jpgsy.png
+ERROR:django.request:Internal Server Error: /api/
+Traceback (most recent call last):
+  File "D:\Progarm\Anaconda3\lib\site-packages\django\core\handlers\exception.py", line 34, in inner
+    response = get_response(request)
+  File "D:\Progarm\Anaconda3\lib\site-packages\django\core\handlers\base.py", line 126, in _get_response
+    "returned None instead." % (callback.__module__, view_name)
+ValueError: The view app.views.bg_api didn't return an HttpResponse object. It returned None instead.
+INFO:django.utils.autoreload:D:\wxServer\fileserver\app\views.py changed, reloading.
+ERROR:django.request:Internal Server Error: /api/
+Traceback (most recent call last):
+  File "D:\Progarm\Anaconda3\lib\site-packages\django\core\handlers\exception.py", line 34, in inner
+    response = get_response(request)
+  File "D:\Progarm\Anaconda3\lib\site-packages\django\core\handlers\base.py", line 126, in _get_response
+    "returned None instead." % (callback.__module__, view_name)
+ValueError: The view app.views.bg_api didn't return an HttpResponse object. It returned None instead.
+WARNING:django.request:Not Found: /download/wx5958ef33e1aeaf56.o6zAJs7eDvKwg0bUs9EWfBZf4Pz8.FVE1vxFbzQxM8ce19a79895cd9be40e897f6e363c325.jpgsy.png
+WARNING:django.request:Not Found: /download/wx5958ef33e1aeaf56.o6zAJs7eDvKwg0bUs9EWfBZf4Pz8.FVE1vxFbzQxM8ce19a79895cd9be40e897f6e363c325.jpgsy.png
+WARNING:django.request:Not Found: /download/wx5958ef33e1aeaf56.o6zAJs7eDvKwg0bUs9EWfBZf4Pz8.FVE1vxFbzQxM8ce19a79895cd9be40e897f6e363c325.jpgsy.png
+WARNING:django.request:Not Found: /download/wx5958ef33e1aeaf56.o6zAJs7eDvKwg0bUs9EWfBZf4Pz8.FVE1vxFbzQxM8ce19a79895cd9be40e897f6e363c325.jpgsy.png
+WARNING:django.request:Not Found: /download/wx5958ef33e1aeaf56.o6zAJs7eDvKwg0bUs9EWfBZf4Pz8.FVE1vxFbzQxM8ce19a79895cd9be40e897f6e363c325.jpgsy.png
+WARNING:django.request:Not Found: /download/wx5958ef33e1aeaf56.o6zAJs7eDvKwg0bUs9EWfBZf4Pz8.FVE1vxFbzQxM8ce19a79895cd9be40e897f6e363c325.jpgsy.png
+ERROR:django.request:Internal Server Error: /api/
+Traceback (most recent call last):
+  File "D:\Progarm\Anaconda3\lib\site-packages\django\core\handlers\exception.py", line 34, in inner
+    response = get_response(request)
+  File "D:\Progarm\Anaconda3\lib\site-packages\django\core\handlers\base.py", line 126, in _get_response
+    "returned None instead." % (callback.__module__, view_name)
+ValueError: The view app.views.bg_api didn't return an HttpResponse object. It returned None instead.
+ERROR:root:Unable to save D:\wxServer\receive\wx5958ef33e1aeaf56.o6zAJs7eDvKwg0bUs9EWfBZf4Pz8.Sb65TlKGXamg8ce19a79895cd9be40e897f6e363c325.jpg_no_bg.png due to insufficient credits
+ERROR:django.request:Internal Server Error: /api/
+Traceback (most recent call last):
+  File "D:\Progarm\Anaconda3\lib\site-packages\django\core\handlers\exception.py", line 34, in inner
+    response = get_response(request)
+  File "D:\Progarm\Anaconda3\lib\site-packages\django\core\handlers\base.py", line 126, in _get_response
+    "returned None instead." % (callback.__module__, view_name)
+ValueError: The view app.views.bg_api didn't return an HttpResponse object. It returned None instead.
+ERROR:root:Unable to save D:\wxServer\receive\wx5958ef33e1aeaf56.o6zAJs7eDvKwg0bUs9EWfBZf4Pz8.UEEtcA0v7j8k8ce19a79895cd9be40e897f6e363c325.jpg_no_bg.png due to insufficient credits
+INFO:django.utils.autoreload:D:\wxServer\fileserver\app\views.py changed, reloading.
+ERROR:root:Unable to save D:\wxServer\receive\wx5958ef33e1aeaf56.o6zAJs7eDvKwg0bUs9EWfBZf4Pz8.UEEtcA0v7j8k8ce19a79895cd9be40e897f6e363c325.jpg_no_bg.png due to insufficient credits
+ERROR:root:Unable to save D:\wxServer\receive\wx5958ef33e1aeaf56.o6zAJs7eDvKwg0bUs9EWfBZf4Pz8.UEEtcA0v7j8k8ce19a79895cd9be40e897f6e363c325.jpg_no_bg.png due to insufficient credits
+ERROR:root:Unable to save D:\wxServer\receive\wx5958ef33e1aeaf56.o6zAJs7eDvKwg0bUs9EWfBZf4Pz8.UEEtcA0v7j8k8ce19a79895cd9be40e897f6e363c325.jpg_no_bg.png due to insufficient credits
+ERROR:root:Unable to save D:\wxServer\receive\wx5958ef33e1aeaf56.o6zAJs7eDvKwg0bUs9EWfBZf4Pz8.UEEtcA0v7j8k8ce19a79895cd9be40e897f6e363c325.jpg_no_bg.png due to insufficient credits
+INFO:django.utils.autoreload:D:\wxServer\fileserver\app\color.py changed, reloading.
+ERROR:root:Unable to save D:\wxServer\receive\wx5958ef33e1aeaf56.o6zAJs7eDvKwg0bUs9EWfBZf4Pz8.Q8UAg1mTgwE58ce19a79895cd9be40e897f6e363c325.jpg_no_bg.png due to insufficient credits
+INFO:django.utils.autoreload:D:\wxServer\fileserver\app\color.py changed, reloading.
+INFO:django.utils.autoreload:D:\wxServer\fileserver\fileserver\urls.py changed, reloading.
+ERROR:root:Unable to save D:\wxServer\receive\wx5958ef33e1aeaf56.o6zAJs7eDvKwg0bUs9EWfBZf4Pz8.HIK82GDXG5Nd8ce19a79895cd9be40e897f6e363c325.jpg_no_bg.png due to missing api key
+INFO:django.utils.autoreload:D:\wxServer\fileserver\fileserver\urls.py changed, reloading.
+INFO:django.utils.autoreload:D:\wxServer\fileserver\app\views.py changed, reloading.
+INFO:django.server:"GET /api/?api_data=1wXGp8Pz7YQLH85F7HzAqjkV HTTP/1.1" 200 0
+DEBUG:django.utils.autoreload:File D:\Progarm\Anaconda3\Lib\site-packages\django\contrib\messages\utils.py first seen with mtime 1565342861.6500058
+DEBUG:django.utils.autoreload:File D:\Progarm\Anaconda3\Lib\site-packages\django\contrib\messages\storage\base.py first seen with mtime 1565342861.6624057
+DEBUG:django.utils.autoreload:File D:\Progarm\Anaconda3\Lib\shlex.py first seen with mtime 1553548865.0
+DEBUG:django.utils.autoreload:File D:\Progarm\Anaconda3\Lib\netrc.py first seen with mtime 1553548865.0
+DEBUG:django.utils.autoreload:File D:\Progarm\Anaconda3\Lib\site-packages\django\contrib\sessions\serializers.py first seen with mtime 1565342863.3883898
+DEBUG:django.utils.autoreload:File D:\Progarm\Anaconda3\Lib\site-packages\django\contrib\messages\storage\fallback.py first seen with mtime 1565342861.6723256
+DEBUG:django.utils.autoreload:File D:\Progarm\Anaconda3\Lib\site-packages\django\contrib\messages\storage\session.py first seen with mtime 1565342861.676822
+DEBUG:django.utils.autoreload:File D:\Progarm\Anaconda3\Lib\site-packages\django\contrib\messages\storage\cookie.py first seen with mtime 1565342861.667364
+DEBUG:django.utils.autoreload:File D:\Progarm\Anaconda3\Lib\encodings\charmap.py first seen with mtime 1553548865.0
+INFO:django.server:"GET /bh01/?formula=3%2B3 HTTP/1.1" 200 9
+INFO:django.server:"POST /uploadFile01/ HTTP/1.1" 200 21
+INFO:django.server:"GET /bh01/?formula=2%2B2 HTTP/1.1" 200 134
+DEBUG:django.utils.autoreload:File D:\Progarm\Anaconda3\Lib\site-packages\PIL\ImageFile.py first seen with mtime 1546712836.0
+DEBUG:django.utils.autoreload:File D:\Progarm\Anaconda3\Lib\site-packages\PIL\PngImagePlugin.py first seen with mtime 1546714852.0
+DEBUG:django.utils.autoreload:File D:\Progarm\Anaconda3\Lib\site-packages\PIL\TiffImagePlugin.py first seen with mtime 1546775698.0
+DEBUG:django.utils.autoreload:File D:\Progarm\Anaconda3\Lib\site-packages\PIL\GifImagePlugin.py first seen with mtime 1546775698.0
+DEBUG:django.utils.autoreload:File D:\Progarm\Anaconda3\Lib\site-packages\PIL\GimpPaletteFile.py first seen with mtime 1546712771.0
+DEBUG:django.utils.autoreload:File D:\Progarm\Anaconda3\Lib\site-packages\PIL\PpmImagePlugin.py first seen with mtime 1546712771.0
+DEBUG:django.utils.autoreload:File D:\Progarm\Anaconda3\Lib\site-packages\PIL\JpegPresets.py first seen with mtime 1546712771.0
+DEBUG:django.utils.autoreload:File D:\Progarm\Anaconda3\Lib\site-packages\PIL\JpegImagePlugin.py first seen with mtime 1546712771.0
+DEBUG:django.utils.autoreload:File D:\Progarm\Anaconda3\Lib\site-packages\PIL\ImageChops.py first seen with mtime 1546712771.0
+DEBUG:django.utils.autoreload:File D:\Progarm\Anaconda3\Lib\site-packages\PIL\BmpImagePlugin.py first seen with mtime 1546712771.0
+DEBUG:django.utils.autoreload:File D:\Progarm\Anaconda3\Lib\site-packages\PIL\TiffTags.py first seen with mtime 1546712771.0
+DEBUG:django.utils.autoreload:File D:\Progarm\Anaconda3\Lib\site-packages\PIL\GimpGradientFile.py first seen with mtime 1546712771.0
+DEBUG:django.utils.autoreload:File D:\Progarm\Anaconda3\Lib\site-packages\PIL\PaletteFile.py first seen with mtime 1546712771.0
+DEBUG:django.utils.autoreload:File D:\Progarm\Anaconda3\Lib\site-packages\PIL\ImageSequence.py first seen with mtime 1546712771.0
+DEBUG:django.utils.autoreload:File D:\Progarm\Anaconda3\Lib\site-packages\PIL\ImagePalette.py first seen with mtime 1546712771.0
+INFO:django.server:"GET /bh01/?formula=1%2B1 HTTP/1.1" 200 134
+INFO:django.server:"GET /download/wx5958ef33e1aeaf56.o6zAJs7eDvKwg0bUs9EWfBZf4Pz8.noC5fP7T3xp08ce19a79895cd9be40e897f6e363c325.jpg_bh.png HTTP/1.1" 200 140015
+INFO:django.server:"GET /bh01/?formula=3%2B3 HTTP/1.1" 200 134
+INFO:django.server:"GET /download/wx5958ef33e1aeaf56.o6zAJs7eDvKwg0bUs9EWfBZf4Pz8.noC5fP7T3xp08ce19a79895cd9be40e897f6e363c325.jpg_bh.png HTTP/1.1" 200 138128
+INFO:django.server:"GET /api/?api_data=1wXGp8Pz7YQLH85F7HzAqjkV HTTP/1.1" 200 0
+INFO:django.server:"POST /uploadFile01/ HTTP/1.1" 200 21
+INFO:django.server:"GET /bh01/?formula=3%2B3 HTTP/1.1" 200 134
+INFO:django.server:"GET /download/wx5958ef33e1aeaf56.o6zAJs7eDvKwg0bUs9EWfBZf4Pz8.FbcBD6ETL8xJ8ce19a79895cd9be40e897f6e363c325.jpg_bh.png HTTP/1.1" 200 138128
+ERROR:django.request:Internal Server Error: /download/
+Traceback (most recent call last):
+  File "D:\Progarm\Anaconda3\lib\site-packages\django\core\handlers\exception.py", line 34, in inner
+    response = get_response(request)
+  File "D:\Progarm\Anaconda3\lib\site-packages\django\core\handlers\base.py", line 115, in _get_response
+    response = self.process_exception_by_middleware(e, request)
+  File "D:\Progarm\Anaconda3\lib\site-packages\django\core\handlers\base.py", line 113, in _get_response
+    response = wrapped_callback(request, *callback_args, **callback_kwargs)
+TypeError: download() takes 0 positional arguments but 1 was given
+ERROR:django.server:"GET /download/ HTTP/1.1" 500 61362
+DEBUG:django.utils.autoreload:File D:\Progarm\Anaconda3\Lib\site-packages\django\conf\locale\zh_Hans\__init__.py first seen with mtime 1565342851.9799035
+DEBUG:django.utils.autoreload:File D:\Progarm\Anaconda3\Lib\site-packages\django\conf\locale\zh_Hans\formats.py first seen with mtime 1565342851.9803689
+INFO:django.server:"GET /bh01/?formula=2%2B2 HTTP/1.1" 200 134
+INFO:django.server:"GET /download/wx5958ef33e1aeaf56.o6zAJs7eDvKwg0bUs9EWfBZf4Pz8.FbcBD6ETL8xJ8ce19a79895cd9be40e897f6e363c325.jpg_bh.png HTTP/1.1" 200 137921
+INFO:django.server:"GET /bh01/?formula=1%2B1 HTTP/1.1" 200 134
+INFO:django.server:"GET /download/wx5958ef33e1aeaf56.o6zAJs7eDvKwg0bUs9EWfBZf4Pz8.FbcBD6ETL8xJ8ce19a79895cd9be40e897f6e363c325.jpg_bh.png HTTP/1.1" 200 140015
+DEBUG:django.utils.autoreload:File D:\Progarm\Anaconda3\Lib\shlex.py first seen with mtime 1553548865.0
+DEBUG:django.utils.autoreload:File D:\Progarm\Anaconda3\Lib\site-packages\django\contrib\messages\storage\cookie.py first seen with mtime 1565342861.667364
+DEBUG:django.utils.autoreload:File D:\Progarm\Anaconda3\Lib\encodings\charmap.py first seen with mtime 1553548865.0
+DEBUG:django.utils.autoreload:File D:\Progarm\Anaconda3\Lib\site-packages\django\contrib\messages\storage\base.py first seen with mtime 1565342861.6624057
+DEBUG:django.utils.autoreload:File D:\Progarm\Anaconda3\Lib\site-packages\django\contrib\sessions\serializers.py first seen with mtime 1565342863.3883898
+DEBUG:django.utils.autoreload:File D:\Progarm\Anaconda3\Lib\site-packages\django\contrib\messages\storage\fallback.py first seen with mtime 1565342861.6723256
+DEBUG:django.utils.autoreload:File D:\Progarm\Anaconda3\Lib\site-packages\django\contrib\messages\storage\session.py first seen with mtime 1565342861.676822
+DEBUG:django.utils.autoreload:File D:\Progarm\Anaconda3\Lib\netrc.py first seen with mtime 1553548865.0
+DEBUG:django.utils.autoreload:File D:\Progarm\Anaconda3\Lib\site-packages\django\contrib\messages\utils.py first seen with mtime 1565342861.6500058
+INFO:django.server:"POST /uploadFile/ HTTP/1.1" 200 19
+INFO:django.server:"GET /bh/?formula=3%2B3 HTTP/1.1" 200 134
+INFO:django.server:"GET /download/wx5958ef33e1aeaf56.o6zAJs7eDvKwg0bUs9EWfBZf4Pz8.q3O5n6Qd62X78ce19a79895cd9be40e897f6e363c325.jpg_bh.png HTTP/1.1" 200 138128
+DEBUG:django.utils.autoreload:File D:\Progarm\Anaconda3\Lib\site-packages\PIL\JpegImagePlugin.py first seen with mtime 1546712771.0
+DEBUG:django.utils.autoreload:File D:\Progarm\Anaconda3\Lib\site-packages\PIL\GifImagePlugin.py first seen with mtime 1546775698.0
+DEBUG:django.utils.autoreload:File D:\Progarm\Anaconda3\Lib\site-packages\PIL\GimpPaletteFile.py first seen with mtime 1546712771.0
+DEBUG:django.utils.autoreload:File D:\Progarm\Anaconda3\Lib\site-packages\PIL\PaletteFile.py first seen with mtime 1546712771.0
+DEBUG:django.utils.autoreload:File D:\Progarm\Anaconda3\Lib\site-packages\PIL\BmpImagePlugin.py first seen with mtime 1546712771.0
+DEBUG:django.utils.autoreload:File D:\Progarm\Anaconda3\Lib\site-packages\PIL\ImageChops.py first seen with mtime 1546712771.0
+DEBUG:django.utils.autoreload:File D:\Progarm\Anaconda3\Lib\site-packages\PIL\TiffTags.py first seen with mtime 1546712771.0
+DEBUG:django.utils.autoreload:File D:\Progarm\Anaconda3\Lib\site-packages\PIL\GimpGradientFile.py first seen with mtime 1546712771.0
+DEBUG:django.utils.autoreload:File D:\Progarm\Anaconda3\Lib\site-packages\PIL\JpegPresets.py first seen with mtime 1546712771.0
+DEBUG:django.utils.autoreload:File D:\Progarm\Anaconda3\Lib\site-packages\PIL\TiffImagePlugin.py first seen with mtime 1546775698.0
+DEBUG:django.utils.autoreload:File D:\Progarm\Anaconda3\Lib\site-packages\PIL\PpmImagePlugin.py first seen with mtime 1546712771.0
+DEBUG:django.utils.autoreload:File D:\Progarm\Anaconda3\Lib\site-packages\PIL\PngImagePlugin.py first seen with mtime 1546714852.0
+DEBUG:django.utils.autoreload:File D:\Progarm\Anaconda3\Lib\site-packages\PIL\ImageFile.py first seen with mtime 1546712836.0
+DEBUG:django.utils.autoreload:File D:\Progarm\Anaconda3\Lib\site-packages\PIL\ImageSequence.py first seen with mtime 1546712771.0
+DEBUG:django.utils.autoreload:File D:\Progarm\Anaconda3\Lib\site-packages\PIL\ImagePalette.py first seen with mtime 1546712771.0
+INFO:django.server:"GET /bh/?formula=2%2B2 HTTP/1.1" 200 134
+INFO:django.server:"GET /download/wx5958ef33e1aeaf56.o6zAJs7eDvKwg0bUs9EWfBZf4Pz8.q3O5n6Qd62X78ce19a79895cd9be40e897f6e363c325.jpg_bh.png HTTP/1.1" 200 137921
+INFO:django.server:"GET /bh/?formula=1%2B1 HTTP/1.1" 200 134
+INFO:django.server:"GET /download/wx5958ef33e1aeaf56.o6zAJs7eDvKwg0bUs9EWfBZf4Pz8.q3O5n6Qd62X78ce19a79895cd9be40e897f6e363c325.jpg_bh.png HTTP/1.1" 200 140015
+INFO:django.server:"GET /download/wx5958ef33e1aeaf56.o6zAJs7eDvKwg0bUs9EWfBZf4Pz8.q3O5n6Qd62X78ce19a79895cd9be40e897f6e363c325.jpg_bh.png HTTP/1.1" 200 140015
+INFO:django.server:"GET /bh/?formula=3%2B3 HTTP/1.1" 200 134
+INFO:django.server:"GET /download/wx5958ef33e1aeaf56.o6zAJs7eDvKwg0bUs9EWfBZf4Pz8.q3O5n6Qd62X78ce19a79895cd9be40e897f6e363c325.jpg_bh.png HTTP/1.1" 200 138128
+INFO:django.server:"GET /bh/?formula=2%2B2 HTTP/1.1" 200 9
+INFO:django.server:"GET /bh/?formula=3%2B3 HTTP/1.1" 200 9
+DEBUG:django.utils.autoreload:File D:\Progarm\Anaconda3\Lib\site-packages\django\contrib\messages\storage\cookie.py first seen with mtime 1565342861.667364
+DEBUG:django.utils.autoreload:File D:\Progarm\Anaconda3\Lib\site-packages\django\contrib\messages\storage\base.py first seen with mtime 1565342861.6624057
+DEBUG:django.utils.autoreload:File D:\Progarm\Anaconda3\Lib\site-packages\django\contrib\messages\storage\session.py first seen with mtime 1565342861.676822
+DEBUG:django.utils.autoreload:File D:\Progarm\Anaconda3\Lib\site-packages\django\contrib\messages\storage\fallback.py first seen with mtime 1565342861.6723256
+DEBUG:django.utils.autoreload:File D:\Progarm\Anaconda3\Lib\shlex.py first seen with mtime 1553548865.0
+DEBUG:django.utils.autoreload:File D:\Progarm\Anaconda3\Lib\site-packages\django\contrib\sessions\serializers.py first seen with mtime 1565342863.3883898
+DEBUG:django.utils.autoreload:File D:\Progarm\Anaconda3\Lib\site-packages\django\contrib\messages\utils.py first seen with mtime 1565342861.6500058
+DEBUG:django.utils.autoreload:File D:\Progarm\Anaconda3\Lib\netrc.py first seen with mtime 1553548865.0
+DEBUG:django.utils.autoreload:File D:\Progarm\Anaconda3\Lib\encodings\charmap.py first seen with mtime 1553548865.0
+INFO:django.server:"POST /uploadFile/ HTTP/1.1" 200 19
+INFO:django.server:"GET /bh/?formula=3%2B3 HTTP/1.1" 200 134
+DEBUG:django.utils.autoreload:File D:\Progarm\Anaconda3\Lib\site-packages\PIL\JpegPresets.py first seen with mtime 1546712771.0
+DEBUG:django.utils.autoreload:File D:\Progarm\Anaconda3\Lib\site-packages\PIL\ImageChops.py first seen with mtime 1546712771.0
+DEBUG:django.utils.autoreload:File D:\Progarm\Anaconda3\Lib\site-packages\PIL\TiffTags.py first seen with mtime 1546712771.0
+DEBUG:django.utils.autoreload:File D:\Progarm\Anaconda3\Lib\site-packages\PIL\PpmImagePlugin.py first seen with mtime 1546712771.0
+DEBUG:django.utils.autoreload:File D:\Progarm\Anaconda3\Lib\site-packages\PIL\ImageSequence.py first seen with mtime 1546712771.0
+DEBUG:django.utils.autoreload:File D:\Progarm\Anaconda3\Lib\site-packages\PIL\ImagePalette.py first seen with mtime 1546712771.0
+DEBUG:django.utils.autoreload:File D:\Progarm\Anaconda3\Lib\site-packages\PIL\GimpPaletteFile.py first seen with mtime 1546712771.0
+DEBUG:django.utils.autoreload:File D:\Progarm\Anaconda3\Lib\site-packages\PIL\PaletteFile.py first seen with mtime 1546712771.0
+DEBUG:django.utils.autoreload:File D:\Progarm\Anaconda3\Lib\site-packages\PIL\PngImagePlugin.py first seen with mtime 1546714852.0
+DEBUG:django.utils.autoreload:File D:\Progarm\Anaconda3\Lib\site-packages\PIL\ImageFile.py first seen with mtime 1546712836.0
+DEBUG:django.utils.autoreload:File D:\Progarm\Anaconda3\Lib\site-packages\PIL\TiffImagePlugin.py first seen with mtime 1546775698.0
+DEBUG:django.utils.autoreload:File D:\Progarm\Anaconda3\Lib\site-packages\PIL\GimpGradientFile.py first seen with mtime 1546712771.0
+DEBUG:django.utils.autoreload:File D:\Progarm\Anaconda3\Lib\site-packages\PIL\GifImagePlugin.py first seen with mtime 1546775698.0
+DEBUG:django.utils.autoreload:File D:\Progarm\Anaconda3\Lib\site-packages\PIL\BmpImagePlugin.py first seen with mtime 1546712771.0
+DEBUG:django.utils.autoreload:File D:\Progarm\Anaconda3\Lib\site-packages\PIL\JpegImagePlugin.py first seen with mtime 1546712771.0
+DEBUG:django.template:Exception while resolving variable 'name' in template 'unknown'.
+Traceback (most recent call last):
+  File "D:\Progarm\Anaconda3\lib\site-packages\django\core\handlers\exception.py", line 34, in inner
+    response = get_response(request)
+  File "D:\Progarm\Anaconda3\lib\site-packages\django\core\handlers\base.py", line 100, in _get_response
+    resolver_match = resolver.resolve(request.path_info)
+  File "D:\Progarm\Anaconda3\lib\site-packages\django\urls\resolvers.py", line 566, in resolve
+    raise Resolver404({'tried': tried, 'path': new_path})
+django.urls.exceptions.Resolver404: {'tried': [[<URLResolver <URLPattern list> (admin:admin) 'admin/'>], [<URLPattern 'index/'>], [<URLResolver <module 'app.urls' from 'D:\\wxServer\\fileserver\\app\\urls.py'> (None:None) ''>, <URLPattern 'uploadFile/'>], [<URLResolver <module 'app.urls' from 'D:\\wxServer\\fileserver\\app\\urls.py'> (None:None) ''>, <URLPattern 'bh/'>], [<URLResolver <module 'app.urls' from 'D:\\wxServer\\fileserver\\app\\urls.py'> (None:None) ''>, <URLPattern 'uploadFile/'>], [<URLResolver <module 'app.urls' from 'D:\\wxServer\\fileserver\\app\\urls.py'> (None:None) ''>, <URLPattern 'bh/'>], [<URLResolver <module 'app.urls' from 'D:\\wxServer\\fileserver\\app\\urls.py'> (None:None) ''>, <URLPattern 'uploadFile/'>], [<URLResolver <module 'app.urls' from 'D:\\wxServer\\fileserver\\app\\urls.py'> (None:None) ''>, <URLPattern 'bh/'>], [<URLPattern 'api/'>], [<URLPattern 'uploadFile01/'>], [<URLPattern 'bh01/'>], [<URLPattern 'media/(?P<path>.*)$'>]], 'path': 'download/wx5958ef33e1aeaf56.o6zAJs7eDvKwg0bUs9EWfBZf4Pz8.lCnWIgsBjqou8ce19a79895cd9be40e897f6e363c325.jpg_bh.png'}
+
+During handling of the above exception, another exception occurred:
+
+Traceback (most recent call last):
+  File "D:\Progarm\Anaconda3\lib\site-packages\django\template\base.py", line 829, in _resolve_lookup
+    current = current[bit]
+TypeError: 'URLResolver' object is not subscriptable
+
+During handling of the above exception, another exception occurred:
+
+Traceback (most recent call last):
+  File "D:\Progarm\Anaconda3\lib\site-packages\django\template\base.py", line 837, in _resolve_lookup
+    current = getattr(current, bit)
+AttributeError: 'URLResolver' object has no attribute 'name'
+
+During handling of the above exception, another exception occurred:
+
+Traceback (most recent call last):
+  File "D:\Progarm\Anaconda3\lib\site-packages\django\template\base.py", line 843, in _resolve_lookup
+    current = current[int(bit)]
+ValueError: invalid literal for int() with base 10: 'name'
+
+During handling of the above exception, another exception occurred:
+
+Traceback (most recent call last):
+  File "D:\Progarm\Anaconda3\lib\site-packages\django\template\base.py", line 850, in _resolve_lookup
+    (bit, current))  # missing attribute
+django.template.base.VariableDoesNotExist: Failed lookup for key [name] in <URLResolver <URLPattern list> (admin:admin) 'admin/'>
+WARNING:django.request:Not Found: /download/wx5958ef33e1aeaf56.o6zAJs7eDvKwg0bUs9EWfBZf4Pz8.lCnWIgsBjqou8ce19a79895cd9be40e897f6e363c325.jpg_bh.png
+WARNING:django.server:"GET /download/wx5958ef33e1aeaf56.o6zAJs7eDvKwg0bUs9EWfBZf4Pz8.lCnWIgsBjqou8ce19a79895cd9be40e897f6e363c325.jpg_bh.png HTTP/1.1" 404 3756
+DEBUG:django.template:Exception while resolving variable 'name' in template 'unknown'.
+Traceback (most recent call last):
+  File "D:\Progarm\Anaconda3\lib\site-packages\django\core\handlers\exception.py", line 34, in inner
+    response = get_response(request)
+  File "D:\Progarm\Anaconda3\lib\site-packages\django\core\handlers\base.py", line 100, in _get_response
+    resolver_match = resolver.resolve(request.path_info)
+  File "D:\Progarm\Anaconda3\lib\site-packages\django\urls\resolvers.py", line 566, in resolve
+    raise Resolver404({'tried': tried, 'path': new_path})
+django.urls.exceptions.Resolver404: {'tried': [[<URLResolver <URLPattern list> (admin:admin) 'admin/'>], [<URLPattern 'index/'>], [<URLResolver <module 'app.urls' from 'D:\\wxServer\\fileserver\\app\\urls.py'> (None:None) ''>, <URLPattern 'uploadFile/'>], [<URLResolver <module 'app.urls' from 'D:\\wxServer\\fileserver\\app\\urls.py'> (None:None) ''>, <URLPattern 'bh/'>], [<URLResolver <module 'app.urls' from 'D:\\wxServer\\fileserver\\app\\urls.py'> (None:None) ''>, <URLPattern 'uploadFile/'>], [<URLResolver <module 'app.urls' from 'D:\\wxServer\\fileserver\\app\\urls.py'> (None:None) ''>, <URLPattern 'bh/'>], [<URLResolver <module 'app.urls' from 'D:\\wxServer\\fileserver\\app\\urls.py'> (None:None) ''>, <URLPattern 'uploadFile/'>], [<URLResolver <module 'app.urls' from 'D:\\wxServer\\fileserver\\app\\urls.py'> (None:None) ''>, <URLPattern 'bh/'>], [<URLPattern 'api/'>], [<URLPattern 'uploadFile01/'>], [<URLPattern 'bh01/'>], [<URLPattern 'media/(?P<path>.*)$'>]], 'path': 'download/wx5958ef33e1aeaf56.o6zAJs7eDvKwg0bUs9EWfBZf4Pz8.lCnWIgsBjqou8ce19a79895cd9be40e897f6e363c325.jpg_bh.png'}
+
+During handling of the above exception, another exception occurred:
+
+Traceback (most recent call last):
+  File "D:\Progarm\Anaconda3\lib\site-packages\django\template\base.py", line 829, in _resolve_lookup
+    current = current[bit]
+TypeError: 'URLResolver' object is not subscriptable
+
+During handling of the above exception, another exception occurred:
+
+Traceback (most recent call last):
+  File "D:\Progarm\Anaconda3\lib\site-packages\django\template\base.py", line 837, in _resolve_lookup
+    current = getattr(current, bit)
+AttributeError: 'URLResolver' object has no attribute 'name'
+
+During handling of the above exception, another exception occurred:
+
+Traceback (most recent call last):
+  File "D:\Progarm\Anaconda3\lib\site-packages\django\template\base.py", line 843, in _resolve_lookup
+    current = current[int(bit)]
+ValueError: invalid literal for int() with base 10: 'name'
+
+During handling of the above exception, another exception occurred:
+
+Traceback (most recent call last):
+  File "D:\Progarm\Anaconda3\lib\site-packages\django\template\base.py", line 850, in _resolve_lookup
+    (bit, current))  # missing attribute
+django.template.base.VariableDoesNotExist: Failed lookup for key [name] in <URLResolver <URLPattern list> (admin:admin) 'admin/'>
+WARNING:django.request:Not Found: /download/wx5958ef33e1aeaf56.o6zAJs7eDvKwg0bUs9EWfBZf4Pz8.lCnWIgsBjqou8ce19a79895cd9be40e897f6e363c325.jpg_bh.png
+WARNING:django.server:"GET /download/wx5958ef33e1aeaf56.o6zAJs7eDvKwg0bUs9EWfBZf4Pz8.lCnWIgsBjqou8ce19a79895cd9be40e897f6e363c325.jpg_bh.png HTTP/1.1" 404 3756
+INFO:django.server:"GET /bh/?formula=2%2B2 HTTP/1.1" 200 134
+DEBUG:django.template:Exception while resolving variable 'name' in template 'unknown'.
+Traceback (most recent call last):
+  File "D:\Progarm\Anaconda3\lib\site-packages\django\core\handlers\exception.py", line 34, in inner
+    response = get_response(request)
+  File "D:\Progarm\Anaconda3\lib\site-packages\django\core\handlers\base.py", line 100, in _get_response
+    resolver_match = resolver.resolve(request.path_info)
+  File "D:\Progarm\Anaconda3\lib\site-packages\django\urls\resolvers.py", line 566, in resolve
+    raise Resolver404({'tried': tried, 'path': new_path})
+django.urls.exceptions.Resolver404: {'tried': [[<URLResolver <URLPattern list> (admin:admin) 'admin/'>], [<URLPattern 'index/'>], [<URLResolver <module 'app.urls' from 'D:\\wxServer\\fileserver\\app\\urls.py'> (None:None) ''>, <URLPattern 'uploadFile/'>], [<URLResolver <module 'app.urls' from 'D:\\wxServer\\fileserver\\app\\urls.py'> (None:None) ''>, <URLPattern 'bh/'>], [<URLResolver <module 'app.urls' from 'D:\\wxServer\\fileserver\\app\\urls.py'> (None:None) ''>, <URLPattern 'uploadFile/'>], [<URLResolver <module 'app.urls' from 'D:\\wxServer\\fileserver\\app\\urls.py'> (None:None) ''>, <URLPattern 'bh/'>], [<URLResolver <module 'app.urls' from 'D:\\wxServer\\fileserver\\app\\urls.py'> (None:None) ''>, <URLPattern 'uploadFile/'>], [<URLResolver <module 'app.urls' from 'D:\\wxServer\\fileserver\\app\\urls.py'> (None:None) ''>, <URLPattern 'bh/'>], [<URLPattern 'api/'>], [<URLPattern 'uploadFile01/'>], [<URLPattern 'bh01/'>], [<URLPattern 'media/(?P<path>.*)$'>]], 'path': 'download/wx5958ef33e1aeaf56.o6zAJs7eDvKwg0bUs9EWfBZf4Pz8.lCnWIgsBjqou8ce19a79895cd9be40e897f6e363c325.jpg_bh.png'}
+
+During handling of the above exception, another exception occurred:
+
+Traceback (most recent call last):
+  File "D:\Progarm\Anaconda3\lib\site-packages\django\template\base.py", line 829, in _resolve_lookup
+    current = current[bit]
+TypeError: 'URLResolver' object is not subscriptable
+
+During handling of the above exception, another exception occurred:
+
+Traceback (most recent call last):
+  File "D:\Progarm\Anaconda3\lib\site-packages\django\template\base.py", line 837, in _resolve_lookup
+    current = getattr(current, bit)
+AttributeError: 'URLResolver' object has no attribute 'name'
+
+During handling of the above exception, another exception occurred:
+
+Traceback (most recent call last):
+  File "D:\Progarm\Anaconda3\lib\site-packages\django\template\base.py", line 843, in _resolve_lookup
+    current = current[int(bit)]
+ValueError: invalid literal for int() with base 10: 'name'
+
+During handling of the above exception, another exception occurred:
+
+Traceback (most recent call last):
+  File "D:\Progarm\Anaconda3\lib\site-packages\django\template\base.py", line 850, in _resolve_lookup
+    (bit, current))  # missing attribute
+django.template.base.VariableDoesNotExist: Failed lookup for key [name] in <URLResolver <URLPattern list> (admin:admin) 'admin/'>
+WARNING:django.request:Not Found: /download/wx5958ef33e1aeaf56.o6zAJs7eDvKwg0bUs9EWfBZf4Pz8.lCnWIgsBjqou8ce19a79895cd9be40e897f6e363c325.jpg_bh.png
+WARNING:django.server:"GET /download/wx5958ef33e1aeaf56.o6zAJs7eDvKwg0bUs9EWfBZf4Pz8.lCnWIgsBjqou8ce19a79895cd9be40e897f6e363c325.jpg_bh.png HTTP/1.1" 404 3756
+INFO:django.server:"GET /bh/?formula=1%2B1 HTTP/1.1" 200 134
+DEBUG:django.template:Exception while resolving variable 'name' in template 'unknown'.
+Traceback (most recent call last):
+  File "D:\Progarm\Anaconda3\lib\site-packages\django\core\handlers\exception.py", line 34, in inner
+    response = get_response(request)
+  File "D:\Progarm\Anaconda3\lib\site-packages\django\core\handlers\base.py", line 100, in _get_response
+    resolver_match = resolver.resolve(request.path_info)
+  File "D:\Progarm\Anaconda3\lib\site-packages\django\urls\resolvers.py", line 566, in resolve
+    raise Resolver404({'tried': tried, 'path': new_path})
+django.urls.exceptions.Resolver404: {'tried': [[<URLResolver <URLPattern list> (admin:admin) 'admin/'>], [<URLPattern 'index/'>], [<URLResolver <module 'app.urls' from 'D:\\wxServer\\fileserver\\app\\urls.py'> (None:None) ''>, <URLPattern 'uploadFile/'>], [<URLResolver <module 'app.urls' from 'D:\\wxServer\\fileserver\\app\\urls.py'> (None:None) ''>, <URLPattern 'bh/'>], [<URLResolver <module 'app.urls' from 'D:\\wxServer\\fileserver\\app\\urls.py'> (None:None) ''>, <URLPattern 'uploadFile/'>], [<URLResolver <module 'app.urls' from 'D:\\wxServer\\fileserver\\app\\urls.py'> (None:None) ''>, <URLPattern 'bh/'>], [<URLResolver <module 'app.urls' from 'D:\\wxServer\\fileserver\\app\\urls.py'> (None:None) ''>, <URLPattern 'uploadFile/'>], [<URLResolver <module 'app.urls' from 'D:\\wxServer\\fileserver\\app\\urls.py'> (None:None) ''>, <URLPattern 'bh/'>], [<URLPattern 'api/'>], [<URLPattern 'uploadFile01/'>], [<URLPattern 'bh01/'>], [<URLPattern 'media/(?P<path>.*)$'>]], 'path': 'download/wx5958ef33e1aeaf56.o6zAJs7eDvKwg0bUs9EWfBZf4Pz8.lCnWIgsBjqou8ce19a79895cd9be40e897f6e363c325.jpg_bh.png'}
+
+During handling of the above exception, another exception occurred:
+
+Traceback (most recent call last):
+  File "D:\Progarm\Anaconda3\lib\site-packages\django\template\base.py", line 829, in _resolve_lookup
+    current = current[bit]
+TypeError: 'URLResolver' object is not subscriptable
+
+During handling of the above exception, another exception occurred:
+
+Traceback (most recent call last):
+  File "D:\Progarm\Anaconda3\lib\site-packages\django\template\base.py", line 837, in _resolve_lookup
+    current = getattr(current, bit)
+AttributeError: 'URLResolver' object has no attribute 'name'
+
+During handling of the above exception, another exception occurred:
+
+Traceback (most recent call last):
+  File "D:\Progarm\Anaconda3\lib\site-packages\django\template\base.py", line 843, in _resolve_lookup
+    current = current[int(bit)]
+ValueError: invalid literal for int() with base 10: 'name'
+
+During handling of the above exception, another exception occurred:
+
+Traceback (most recent call last):
+  File "D:\Progarm\Anaconda3\lib\site-packages\django\template\base.py", line 850, in _resolve_lookup
+    (bit, current))  # missing attribute
+django.template.base.VariableDoesNotExist: Failed lookup for key [name] in <URLResolver <URLPattern list> (admin:admin) 'admin/'>
+WARNING:django.request:Not Found: /download/wx5958ef33e1aeaf56.o6zAJs7eDvKwg0bUs9EWfBZf4Pz8.lCnWIgsBjqou8ce19a79895cd9be40e897f6e363c325.jpg_bh.png
+WARNING:django.server:"GET /download/wx5958ef33e1aeaf56.o6zAJs7eDvKwg0bUs9EWfBZf4Pz8.lCnWIgsBjqou8ce19a79895cd9be40e897f6e363c325.jpg_bh.png HTTP/1.1" 404 3756
+DEBUG:django.utils.autoreload:File D:\wxServer\fileserver\app\color.py previous mtime: 1565847124.9078517, current mtime: 1566222614.1664217
+DEBUG:django.utils.autoreload:D:\wxServer\fileserver\app\color.py notified as changed. Signal results: [(<function translation_file_changed at 0x000002335449D158>, None)].
+INFO:django.utils.autoreload:D:\wxServer\fileserver\app\color.py changed, reloading.
+DEBUG:django.utils.autoreload:File D:\Progarm\Anaconda3\Lib\site-packages\django\contrib\messages\storage\base.py first seen with mtime 1565342861.6624057
+DEBUG:django.utils.autoreload:File D:\Progarm\Anaconda3\Lib\site-packages\django\contrib\messages\storage\cookie.py first seen with mtime 1565342861.667364
+DEBUG:django.utils.autoreload:File D:\Progarm\Anaconda3\Lib\site-packages\django\contrib\sessions\serializers.py first seen with mtime 1565342863.3883898
+DEBUG:django.utils.autoreload:File D:\Progarm\Anaconda3\Lib\netrc.py first seen with mtime 1553548865.0
+DEBUG:django.utils.autoreload:File D:\Progarm\Anaconda3\Lib\site-packages\django\contrib\messages\utils.py first seen with mtime 1565342861.6500058
+DEBUG:django.utils.autoreload:File D:\Progarm\Anaconda3\Lib\site-packages\django\contrib\messages\storage\fallback.py first seen with mtime 1565342861.6723256
+DEBUG:django.utils.autoreload:File D:\Progarm\Anaconda3\Lib\shlex.py first seen with mtime 1553548865.0
+DEBUG:django.utils.autoreload:File D:\Progarm\Anaconda3\Lib\site-packages\django\contrib\messages\storage\session.py first seen with mtime 1565342861.676822
+DEBUG:django.utils.autoreload:File D:\Progarm\Anaconda3\Lib\encodings\charmap.py first seen with mtime 1553548865.0
+INFO:django.server:"POST /uploadFile/ HTTP/1.1" 200 19
+INFO:django.server:"GET /bh/?formula=3%2B3 HTTP/1.1" 200 131
+INFO:django.server:"GET /media/wx5958ef33e1aeaf56.o6zAJs7eDvKwg0bUs9EWfBZf4Pz8.Sbt8FTTQQDQ58ce19a79895cd9be40e897f6e363c325.jpg_bh.png HTTP/1.1" 200 138128
+DEBUG:django.utils.autoreload:File D:\Progarm\Anaconda3\Lib\site-packages\PIL\BmpImagePlugin.py first seen with mtime 1546712771.0
+DEBUG:django.utils.autoreload:File D:\Progarm\Anaconda3\Lib\site-packages\PIL\GimpPaletteFile.py first seen with mtime 1546712771.0
+DEBUG:django.utils.autoreload:File D:\Progarm\Anaconda3\Lib\site-packages\PIL\TiffImagePlugin.py first seen with mtime 1546775698.0
+DEBUG:django.utils.autoreload:File D:\Progarm\Anaconda3\Lib\site-packages\PIL\GifImagePlugin.py first seen with mtime 1546775698.0
+DEBUG:django.utils.autoreload:File D:\Progarm\Anaconda3\Lib\site-packages\PIL\JpegPresets.py first seen with mtime 1546712771.0
+DEBUG:django.utils.autoreload:File D:\Progarm\Anaconda3\Lib\site-packages\PIL\PaletteFile.py first seen with mtime 1546712771.0
+DEBUG:django.utils.autoreload:File D:\Progarm\Anaconda3\Lib\site-packages\PIL\ImagePalette.py first seen with mtime 1546712771.0
+DEBUG:django.utils.autoreload:File D:\Progarm\Anaconda3\Lib\site-packages\PIL\PpmImagePlugin.py first seen with mtime 1546712771.0
+DEBUG:django.utils.autoreload:File D:\Progarm\Anaconda3\Lib\site-packages\PIL\ImageChops.py first seen with mtime 1546712771.0
+DEBUG:django.utils.autoreload:File D:\Progarm\Anaconda3\Lib\site-packages\PIL\ImageFile.py first seen with mtime 1546712836.0
+DEBUG:django.utils.autoreload:File D:\Progarm\Anaconda3\Lib\site-packages\PIL\JpegImagePlugin.py first seen with mtime 1546712771.0
+DEBUG:django.utils.autoreload:File D:\Progarm\Anaconda3\Lib\site-packages\PIL\GimpGradientFile.py first seen with mtime 1546712771.0
+DEBUG:django.utils.autoreload:File D:\Progarm\Anaconda3\Lib\site-packages\PIL\ImageSequence.py first seen with mtime 1546712771.0
+DEBUG:django.utils.autoreload:File D:\Progarm\Anaconda3\Lib\site-packages\PIL\TiffTags.py first seen with mtime 1546712771.0
+DEBUG:django.utils.autoreload:File D:\Progarm\Anaconda3\Lib\site-packages\PIL\PngImagePlugin.py first seen with mtime 1546714852.0
+INFO:django.server:"GET /bh/?formula=2%2B2 HTTP/1.1" 200 131
+INFO:django.server:"GET /media/wx5958ef33e1aeaf56.o6zAJs7eDvKwg0bUs9EWfBZf4Pz8.Sbt8FTTQQDQ58ce19a79895cd9be40e897f6e363c325.jpg_bh.png HTTP/1.1" 200 137921
+INFO:django.server:"GET /bh/?formula=1%2B1 HTTP/1.1" 200 131
+INFO:django.server:"GET /media/wx5958ef33e1aeaf56.o6zAJs7eDvKwg0bUs9EWfBZf4Pz8.Sbt8FTTQQDQ58ce19a79895cd9be40e897f6e363c325.jpg_bh.png HTTP/1.1" 200 140015
+WARNING:django.request:Not Found: /media/
+WARNING:django.server:"GET /media/ HTTP/1.1" 404 1721
+DEBUG:django.utils.autoreload:File D:\wxServer\fileserver\fileserver\urls.py previous mtime: 1566221947.7562096, current mtime: 1566222825.415226
+DEBUG:django.utils.autoreload:D:\wxServer\fileserver\fileserver\urls.py notified as changed. Signal results: [(<function translation_file_changed at 0x0000029D7471D158>, None)].
+INFO:django.utils.autoreload:D:\wxServer\fileserver\fileserver\urls.py changed, reloading.
+DEBUG:django.utils.autoreload:File D:\Progarm\Anaconda3\Lib\site-packages\django\contrib\messages\storage\base.py first seen with mtime 1565342861.6624057
+DEBUG:django.utils.autoreload:File D:\Progarm\Anaconda3\Lib\site-packages\django\contrib\messages\storage\session.py first seen with mtime 1565342861.676822
+DEBUG:django.utils.autoreload:File D:\Progarm\Anaconda3\Lib\netrc.py first seen with mtime 1553548865.0
+DEBUG:django.utils.autoreload:File D:\Progarm\Anaconda3\Lib\shlex.py first seen with mtime 1553548865.0
+DEBUG:django.utils.autoreload:File D:\Progarm\Anaconda3\Lib\site-packages\django\contrib\messages\utils.py first seen with mtime 1565342861.6500058
+DEBUG:django.utils.autoreload:File D:\Progarm\Anaconda3\Lib\site-packages\django\contrib\sessions\serializers.py first seen with mtime 1565342863.3883898
+DEBUG:django.utils.autoreload:File D:\Progarm\Anaconda3\Lib\site-packages\django\contrib\messages\storage\fallback.py first seen with mtime 1565342861.6723256
+DEBUG:django.utils.autoreload:File D:\Progarm\Anaconda3\Lib\site-packages\django\contrib\messages\storage\cookie.py first seen with mtime 1565342861.667364
+ERROR:root:Unable to save D:/wxServer/fileserver/media\wx5958ef33e1aeaf56.o6zAJs7eDvKwg0bUs9EWfBZf4Pz8.fxknlOqE7lQM8ce19a79895cd9be40e897f6e363c325.jpg_no_bg.png due to missing api key
+INFO:django.server:"POST /uploadFile01/ HTTP/1.1" 200 21
+DEBUG:django.utils.autoreload:File D:\Progarm\Anaconda3\Lib\encodings\charmap.py first seen with mtime 1553548865.0
+INFO:django.server:"GET /bh01/?formula=3%2B3 HTTP/1.1" 200 9
+INFO:django.server:"GET /bh01/?formula=2%2B2 HTTP/1.1" 200 9
+INFO:django.server:"GET /bh01/?formula=3%2B3 HTTP/1.1" 200 9
+INFO:django.server:"GET /bh01/?formula=1%2B1 HTTP/1.1" 200 9
+INFO:django.server:"GET /bh01/?formula=2%2B2 HTTP/1.1" 200 9
+INFO:django.server:"GET /bh01/?formula=3%2B3 HTTP/1.1" 200 9
+INFO:django.server:"GET /bh01/?formula=2%2B2 HTTP/1.1" 200 9
+INFO:django.server:"GET /bh01/?formula=1%2B1 HTTP/1.1" 200 9
+ERROR:root:Unable to save D:/wxServer/fileserver/media\wx5958ef33e1aeaf56.o6zAJs7eDvKwg0bUs9EWfBZf4Pz8.ndxLWmbbw5YC8ce19a79895cd9be40e897f6e363c325.jpg_no_bg.png due to missing api key
+INFO:django.server:"POST /uploadFile01/ HTTP/1.1" 200 21
+INFO:django.server:"GET /bh01/?formula=3%2B3 HTTP/1.1" 200 9
+ERROR:root:Unable to save D:/wxServer/fileserver/media\wx5958ef33e1aeaf56.o6zAJs7eDvKwg0bUs9EWfBZf4Pz8.ndxLWmbbw5YC8ce19a79895cd9be40e897f6e363c325.jpg_no_bg.png due to missing api key
+INFO:django.server:"POST /uploadFile01/ HTTP/1.1" 200 21
+INFO:django.server:"GET /bh01/?formula=2%2B2 HTTP/1.1" 200 9
+INFO:django.server:"GET /bh01/?formula=3%2B3 HTTP/1.1" 200 9
+DEBUG:django.utils.autoreload:File D:\wxServer\fileserver\app\views.py previous mtime: 1566222915.206267, current mtime: 1566224515.802503
+DEBUG:django.utils.autoreload:D:\wxServer\fileserver\app\views.py notified as changed. Signal results: [(<function translation_file_changed at 0x00000235A7E8D158>, None)].
+INFO:django.utils.autoreload:D:\wxServer\fileserver\app\views.py changed, reloading.
+DEBUG:django.utils.autoreload:File D:\Progarm\Anaconda3\Lib\site-packages\django\contrib\sessions\serializers.py first seen with mtime 1565342863.3883898
+DEBUG:django.utils.autoreload:File D:\Progarm\Anaconda3\Lib\netrc.py first seen with mtime 1553548865.0
+DEBUG:django.utils.autoreload:File D:\Progarm\Anaconda3\Lib\site-packages\django\contrib\messages\storage\cookie.py first seen with mtime 1565342861.667364
+DEBUG:django.utils.autoreload:File D:\Progarm\Anaconda3\Lib\shlex.py first seen with mtime 1553548865.0
+DEBUG:django.utils.autoreload:File D:\Progarm\Anaconda3\Lib\site-packages\django\contrib\messages\storage\base.py first seen with mtime 1565342861.6624057
+DEBUG:django.utils.autoreload:File D:\Progarm\Anaconda3\Lib\site-packages\django\contrib\messages\storage\fallback.py first seen with mtime 1565342861.6723256
+DEBUG:django.utils.autoreload:File D:\Progarm\Anaconda3\Lib\site-packages\django\contrib\messages\storage\session.py first seen with mtime 1565342861.676822
+DEBUG:django.utils.autoreload:File D:\Progarm\Anaconda3\Lib\site-packages\django\contrib\messages\utils.py first seen with mtime 1565342861.6500058
+ERROR:root:Unable to save D:/wxServer/fileserver/media\wx5958ef33e1aeaf56.o6zAJs7eDvKwg0bUs9EWfBZf4Pz8.VjLTgjUkSIpL8ce19a79895cd9be40e897f6e363c325.jpg_no_bg.png due to missing api key
+INFO:django.server:"POST /uploadFile01/ HTTP/1.1" 200 21
+DEBUG:django.utils.autoreload:File D:\Progarm\Anaconda3\Lib\encodings\charmap.py first seen with mtime 1553548865.0
+INFO:django.server:"GET /bh01/?formula=3%2B3 HTTP/1.1" 200 9
+INFO:django.server:"GET /bh01/?formula=2%2B2 HTTP/1.1" 200 9
+INFO:django.server:"GET /bh01/?formula=1%2B1 HTTP/1.1" 200 9
+INFO:django.server:"GET /bh01/?formula=3%2B3 HTTP/1.1" 200 9
+DEBUG:django.utils.autoreload:File D:\wxServer\fileserver\app\views.py previous mtime: 1566224515.802503, current mtime: 1566224646.2208495
+DEBUG:django.utils.autoreload:D:\wxServer\fileserver\app\views.py notified as changed. Signal results: [(<function translation_file_changed at 0x000002A65937D158>, None)].
+INFO:django.utils.autoreload:D:\wxServer\fileserver\app\views.py changed, reloading.
+ERROR:root:Unable to save D:/wxServer/fileserver/media\wx5958ef33e1aeaf56.o6zAJs7eDvKwg0bUs9EWfBZf4Pz8.izvRMgs60jcf8ce19a79895cd9be40e897f6e363c325.jpg_no_bg.png due to missing api key
+INFO:django.server:"POST /uploadFile01/ HTTP/1.1" 200 21
+DEBUG:django.utils.autoreload:File D:\Progarm\Anaconda3\Lib\site-packages\django\contrib\messages\utils.py first seen with mtime 1565342861.6500058
+DEBUG:django.utils.autoreload:File D:\Progarm\Anaconda3\Lib\site-packages\django\contrib\messages\storage\fallback.py first seen with mtime 1565342861.6723256
+DEBUG:django.utils.autoreload:File D:\Progarm\Anaconda3\Lib\shlex.py first seen with mtime 1553548865.0
+DEBUG:django.utils.autoreload:File D:\Progarm\Anaconda3\Lib\site-packages\django\contrib\messages\storage\cookie.py first seen with mtime 1565342861.667364
+DEBUG:django.utils.autoreload:File D:\Progarm\Anaconda3\Lib\netrc.py first seen with mtime 1553548865.0
+DEBUG:django.utils.autoreload:File D:\Progarm\Anaconda3\Lib\site-packages\django\contrib\messages\storage\session.py first seen with mtime 1565342861.676822
+DEBUG:django.utils.autoreload:File D:\Progarm\Anaconda3\Lib\site-packages\django\contrib\messages\storage\base.py first seen with mtime 1565342861.6624057
+DEBUG:django.utils.autoreload:File D:\Progarm\Anaconda3\Lib\encodings\charmap.py first seen with mtime 1553548865.0
+DEBUG:django.utils.autoreload:File D:\Progarm\Anaconda3\Lib\site-packages\django\contrib\sessions\serializers.py first seen with mtime 1565342863.3883898
+INFO:django.server:"GET /bh01/?formula=3%2B3 HTTP/1.1" 200 9
+INFO:django.server:"GET /bh01/?formula=2%2B2 HTTP/1.1" 200 9
+INFO:django.server:"GET /bh01/?formula=1%2B1 HTTP/1.1" 200 9
+ERROR:root:Unable to save D:/wxServer/fileserver/media\wx5958ef33e1aeaf56.o6zAJs7eDvKwg0bUs9EWfBZf4Pz8.izvRMgs60jcf8ce19a79895cd9be40e897f6e363c325.jpg_no_bg.png due to missing api key
+INFO:django.server:"POST /uploadFile01/ HTTP/1.1" 200 21
+ERROR:root:Unable to save D:/wxServer/fileserver/media\wx5958ef33e1aeaf56.o6zAJs7eDvKwg0bUs9EWfBZf4Pz8.izvRMgs60jcf8ce19a79895cd9be40e897f6e363c325.jpg_no_bg.png due to missing api key
+INFO:django.server:"POST /uploadFile01/ HTTP/1.1" 200 21
+ERROR:root:Unable to save D:/wxServer/fileserver/media\wx5958ef33e1aeaf56.o6zAJs7eDvKwg0bUs9EWfBZf4Pz8.izvRMgs60jcf8ce19a79895cd9be40e897f6e363c325.jpg_no_bg.png due to missing api key
+INFO:django.server:"POST /uploadFile01/ HTTP/1.1" 200 21
+ERROR:root:Unable to save D:/wxServer/fileserver/media\wx5958ef33e1aeaf56.o6zAJs7eDvKwg0bUs9EWfBZf4Pz8.izvRMgs60jcf8ce19a79895cd9be40e897f6e363c325.jpg_no_bg.png due to missing api key
+INFO:django.server:"POST /uploadFile01/ HTTP/1.1" 200 21
+ERROR:root:Unable to save D:/wxServer/fileserver/media\wx5958ef33e1aeaf56.o6zAJs7eDvKwg0bUs9EWfBZf4Pz8.izvRMgs60jcf8ce19a79895cd9be40e897f6e363c325.jpg_no_bg.png due to missing api key
+INFO:django.server:"POST /uploadFile01/ HTTP/1.1" 200 21
+ERROR:root:Unable to save D:/wxServer/fileserver/media\wx5958ef33e1aeaf56.o6zAJs7eDvKwg0bUs9EWfBZf4Pz8.izvRMgs60jcf8ce19a79895cd9be40e897f6e363c325.jpg_no_bg.png due to missing api key
+INFO:django.server:"POST /uploadFile01/ HTTP/1.1" 200 21
+INFO:django.server:"GET /bh01/?formula=3%2B3 HTTP/1.1" 200 9
+INFO:django.server:"GET /bh01/?formula=2%2B2 HTTP/1.1" 200 9
+INFO:django.server:"GET /bh01/?formula=1%2B1 HTTP/1.1" 200 9
+INFO:django.server:"GET /bh01/?formula=3%2B3 HTTP/1.1" 200 9
+INFO:django.server:"GET /bh01/?formula=2%2B2 HTTP/1.1" 200 9
+INFO:django.server:"GET /bh01/?formula=1%2B1 HTTP/1.1" 200 9
+ERROR:root:Unable to save D:/wxServer/fileserver/media\wx5958ef33e1aeaf56.o6zAJs7eDvKwg0bUs9EWfBZf4Pz8.LAWA8D72YRSya963df9d8bb8b761fd3d0c27a36da0eb.jpg_no_bg.png due to missing api key
+INFO:django.server:"POST /uploadFile01/ HTTP/1.1" 200 21
+INFO:django.server:"GET /bh01/?formula=2%2B2 HTTP/1.1" 200 9
+INFO:django.server:"GET /bh01/?formula=3%2B3 HTTP/1.1" 200 9
+INFO:django.server:"GET /bh01/?formula=1%2B1 HTTP/1.1" 200 9
+INFO:django.server:"GET /bh01/?formula=2%2B2 HTTP/1.1" 200 9
+INFO:django.server:"GET /bh01/?formula=3%2B3 HTTP/1.1" 200 9
+INFO:django.server:"GET /bh01/?formula=2%2B2 HTTP/1.1" 200 9
+INFO:django.server:"GET /bh01/?formula=1%2B1 HTTP/1.1" 200 9
+INFO:django.server:"GET /bh01/?formula=2%2B2 HTTP/1.1" 200 9
+INFO:django.server:"GET /bh01/?formula=3%2B3 HTTP/1.1" 200 9
+DEBUG:django.utils.autoreload:File D:\wxServer\fileserver\app\views.py previous mtime: 1566224803.3483214, current mtime: 1566225303.173113
+DEBUG:django.utils.autoreload:D:\wxServer\fileserver\app\views.py notified as changed. Signal results: [(<function translation_file_changed at 0x00000125E9FAD158>, None)].
+INFO:django.utils.autoreload:D:\wxServer\fileserver\app\views.py changed, reloading.
+DEBUG:django.utils.autoreload:File D:\Progarm\Anaconda3\Lib\site-packages\django\contrib\messages\storage\base.py first seen with mtime 1565342861.6624057
+DEBUG:django.utils.autoreload:File D:\Progarm\Anaconda3\Lib\site-packages\django\contrib\messages\utils.py first seen with mtime 1565342861.6500058
+DEBUG:django.utils.autoreload:File D:\Progarm\Anaconda3\Lib\shlex.py first seen with mtime 1553548865.0
+DEBUG:django.utils.autoreload:File D:\Progarm\Anaconda3\Lib\netrc.py first seen with mtime 1553548865.0
+DEBUG:django.utils.autoreload:File D:\Progarm\Anaconda3\Lib\site-packages\django\contrib\messages\storage\session.py first seen with mtime 1565342861.676822
+DEBUG:django.utils.autoreload:File D:\Progarm\Anaconda3\Lib\site-packages\django\contrib\sessions\serializers.py first seen with mtime 1565342863.3883898
+DEBUG:django.utils.autoreload:File D:\Progarm\Anaconda3\Lib\site-packages\django\contrib\messages\storage\cookie.py first seen with mtime 1565342861.667364
+DEBUG:django.utils.autoreload:File D:\Progarm\Anaconda3\Lib\site-packages\django\contrib\messages\storage\fallback.py first seen with mtime 1565342861.6723256
+ERROR:root:Unable to save D:/wxServer/fileserver/media\wx5958ef33e1aeaf56.o6zAJs7eDvKwg0bUs9EWfBZf4Pz8.aQph355fIJjXa963df9d8bb8b761fd3d0c27a36da0eb.jpg_no_bg.png due to missing api key
+INFO:django.server:"POST /uploadFile01/ HTTP/1.1" 200 21
+DEBUG:django.utils.autoreload:File D:\Progarm\Anaconda3\Lib\encodings\charmap.py first seen with mtime 1553548865.0
+INFO:django.server:"GET /bh01/?formula=2%2B2 HTTP/1.1" 200 9
+ERROR:root:Unable to save D:/wxServer/fileserver/media\wx5958ef33e1aeaf56.o6zAJs7eDvKwg0bUs9EWfBZf4Pz8.aQph355fIJjXa963df9d8bb8b761fd3d0c27a36da0eb.jpg_no_bg.png due to missing api key
+INFO:django.server:"POST /uploadFile01/ HTTP/1.1" 200 21
+DEBUG:django.utils.autoreload:File D:\wxServer\fileserver\app\views.py previous mtime: 1566225303.173113, current mtime: 1566225601.4129512
+DEBUG:django.utils.autoreload:D:\wxServer\fileserver\app\views.py notified as changed. Signal results: [(<function translation_file_changed at 0x000002C97BABD158>, None)].
+INFO:django.utils.autoreload:D:\wxServer\fileserver\app\views.py changed, reloading.
+DEBUG:django.utils.autoreload:File D:\Progarm\Anaconda3\Lib\site-packages\django\contrib\messages\storage\base.py first seen with mtime 1565342861.6624057
+DEBUG:django.utils.autoreload:File D:\Progarm\Anaconda3\Lib\site-packages\django\contrib\sessions\serializers.py first seen with mtime 1565342863.3883898
+DEBUG:django.utils.autoreload:File D:\Progarm\Anaconda3\Lib\shlex.py first seen with mtime 1553548865.0
+DEBUG:django.utils.autoreload:File D:\Progarm\Anaconda3\Lib\site-packages\django\contrib\messages\storage\cookie.py first seen with mtime 1565342861.667364
+DEBUG:django.utils.autoreload:File D:\Progarm\Anaconda3\Lib\site-packages\django\contrib\messages\storage\session.py first seen with mtime 1565342861.676822
+DEBUG:django.utils.autoreload:File D:\Progarm\Anaconda3\Lib\site-packages\django\contrib\messages\utils.py first seen with mtime 1565342861.6500058
+DEBUG:django.utils.autoreload:File D:\Progarm\Anaconda3\Lib\netrc.py first seen with mtime 1553548865.0
+DEBUG:django.utils.autoreload:File D:\Progarm\Anaconda3\Lib\site-packages\django\contrib\messages\storage\fallback.py first seen with mtime 1565342861.6723256
+DEBUG:django.utils.autoreload:File D:\Progarm\Anaconda3\Lib\encodings\charmap.py first seen with mtime 1553548865.0
+ERROR:root:Unable to save D:/wxServer/fileserver/media\wx5958ef33e1aeaf56.o6zAJs7eDvKwg0bUs9EWfBZf4Pz8.aQph355fIJjXa963df9d8bb8b761fd3d0c27a36da0eb.jpg_no_bg.png due to missing api key
+INFO:django.server:"POST /uploadFile01/ HTTP/1.1" 200 21
+ERROR:root:Unable to save D:/wxServer/fileserver/media\wx5958ef33e1aeaf56.o6zAJs7eDvKwg0bUs9EWfBZf4Pz8.aQph355fIJjXa963df9d8bb8b761fd3d0c27a36da0eb.jpg_no_bg.png due to missing api key
+INFO:django.server:"POST /uploadFile01/ HTTP/1.1" 200 21
+ERROR:root:Unable to save D:/wxServer/fileserver/media\wx5958ef33e1aeaf56.o6zAJs7eDvKwg0bUs9EWfBZf4Pz8.uw3zix45LGLV8ce19a79895cd9be40e897f6e363c325.jpg_no_bg.png due to missing api key
+INFO:django.server:"POST /uploadFile01/ HTTP/1.1" 200 21
+INFO:django.server:"POST /uploadFile/ HTTP/1.1" 200 28
+INFO:django.server:"GET /bh/?formula=3%2B3 HTTP/1.1" 200 131
+INFO:django.server:"GET /media/wx5958ef33e1aeaf56.o6zAJs7eDvKwg0bUs9EWfBZf4Pz8.4iF0NekF1DM08ce19a79895cd9be40e897f6e363c325.jpg_bh.png HTTP/1.1" 200 138128
+DEBUG:django.utils.autoreload:File D:\Progarm\Anaconda3\Lib\site-packages\PIL\ImageFile.py first seen with mtime 1546712836.0
+DEBUG:django.utils.autoreload:File D:\Progarm\Anaconda3\Lib\site-packages\PIL\JpegPresets.py first seen with mtime 1546712771.0
+DEBUG:django.utils.autoreload:File D:\Progarm\Anaconda3\Lib\site-packages\PIL\TiffImagePlugin.py first seen with mtime 1546775698.0
+DEBUG:django.utils.autoreload:File D:\Progarm\Anaconda3\Lib\site-packages\PIL\ImageChops.py first seen with mtime 1546712771.0
+DEBUG:django.utils.autoreload:File D:\Progarm\Anaconda3\Lib\site-packages\PIL\PaletteFile.py first seen with mtime 1546712771.0
+DEBUG:django.utils.autoreload:File D:\Progarm\Anaconda3\Lib\site-packages\PIL\TiffTags.py first seen with mtime 1546712771.0
+DEBUG:django.utils.autoreload:File D:\Progarm\Anaconda3\Lib\site-packages\PIL\PpmImagePlugin.py first seen with mtime 1546712771.0
+DEBUG:django.utils.autoreload:File D:\Progarm\Anaconda3\Lib\site-packages\PIL\GimpPaletteFile.py first seen with mtime 1546712771.0
+DEBUG:django.utils.autoreload:File D:\Progarm\Anaconda3\Lib\site-packages\PIL\GifImagePlugin.py first seen with mtime 1546775698.0
+DEBUG:django.utils.autoreload:File D:\Progarm\Anaconda3\Lib\site-packages\PIL\PngImagePlugin.py first seen with mtime 1546714852.0
+DEBUG:django.utils.autoreload:File D:\Progarm\Anaconda3\Lib\site-packages\PIL\GimpGradientFile.py first seen with mtime 1546712771.0
+DEBUG:django.utils.autoreload:File D:\Progarm\Anaconda3\Lib\site-packages\PIL\ImagePalette.py first seen with mtime 1546712771.0
+DEBUG:django.utils.autoreload:File D:\Progarm\Anaconda3\Lib\site-packages\PIL\ImageSequence.py first seen with mtime 1546712771.0
+DEBUG:django.utils.autoreload:File D:\Progarm\Anaconda3\Lib\site-packages\PIL\BmpImagePlugin.py first seen with mtime 1546712771.0
+DEBUG:django.utils.autoreload:File D:\Progarm\Anaconda3\Lib\site-packages\PIL\JpegImagePlugin.py first seen with mtime 1546712771.0
+INFO:django.server:"GET /bh/?formula=1%2B1 HTTP/1.1" 200 131
+INFO:django.server:"GET /media/wx5958ef33e1aeaf56.o6zAJs7eDvKwg0bUs9EWfBZf4Pz8.4iF0NekF1DM08ce19a79895cd9be40e897f6e363c325.jpg_bh.png HTTP/1.1" 200 140015
+INFO:django.server:"GET /bh/?formula=2%2B2 HTTP/1.1" 200 131
+INFO:django.server:"GET /media/wx5958ef33e1aeaf56.o6zAJs7eDvKwg0bUs9EWfBZf4Pz8.4iF0NekF1DM08ce19a79895cd9be40e897f6e363c325.jpg_bh.png HTTP/1.1" 200 137921
+ERROR:django.request:Internal Server Error: /media/
+Traceback (most recent call last):
+  File "D:\Progarm\Anaconda3\lib\site-packages\django\core\handlers\exception.py", line 34, in inner
+    response = get_response(request)
+  File "D:\Progarm\Anaconda3\lib\site-packages\django\core\handlers\base.py", line 115, in _get_response
+    response = self.process_exception_by_middleware(e, request)
+  File "D:\Progarm\Anaconda3\lib\site-packages\django\core\handlers\base.py", line 113, in _get_response
+    response = wrapped_callback(request, *callback_args, **callback_kwargs)
+TypeError: download() takes 0 positional arguments but 1 was given
+ERROR:django.server:"GET /media/ HTTP/1.1" 500 61340
+DEBUG:django.utils.autoreload:File D:\Progarm\Anaconda3\Lib\site-packages\django\conf\locale\zh_Hans\formats.py first seen with mtime 1565342851.9803689
+DEBUG:django.utils.autoreload:File D:\Progarm\Anaconda3\Lib\site-packages\django\conf\locale\zh_Hans\__init__.py first seen with mtime 1565342851.9799035
+ERROR:root:Unable to save D:/wxServer/fileserver/media\wx5958ef33e1aeaf56.o6zAJs7eDvKwg0bUs9EWfBZf4Pz8.ZkNeA8pvtiFS8ce19a79895cd9be40e897f6e363c325.jpg_no_bg.png due to missing api key
+INFO:django.server:"POST /uploadFile01/ HTTP/1.1" 200 21
+ERROR:django.request:Internal Server Error: /bh01/
+Traceback (most recent call last):
+  File "D:\Progarm\Anaconda3\lib\site-packages\django\utils\datastructures.py", line 78, in __getitem__
+    list_ = super().__getitem__(key)
+KeyError: 'formula'
+
+During handling of the above exception, another exception occurred:
+
+Traceback (most recent call last):
+  File "D:\Progarm\Anaconda3\lib\site-packages\django\core\handlers\exception.py", line 34, in inner
+    response = get_response(request)
+  File "D:\Progarm\Anaconda3\lib\site-packages\django\core\handlers\base.py", line 115, in _get_response
+    response = self.process_exception_by_middleware(e, request)
+  File "D:\Progarm\Anaconda3\lib\site-packages\django\core\handlers\base.py", line 113, in _get_response
+    response = wrapped_callback(request, *callback_args, **callback_kwargs)
+  File "D:\wxServer\fileserver\fileserver\views.py", line 52, in wx_data01
+    formula = request.GET['formula']
+  File "D:\Progarm\Anaconda3\lib\site-packages\django\utils\datastructures.py", line 80, in __getitem__
+    raise MultiValueDictKeyError(key)
+django.utils.datastructures.MultiValueDictKeyError: 'formula'
+ERROR:django.server:"GET /bh01/ HTTP/1.1" 500 73295
+DEBUG:django.template:Exception while resolving variable 'name' in template 'unknown'.
+Traceback (most recent call last):
+  File "D:\Progarm\Anaconda3\lib\site-packages\django\core\handlers\exception.py", line 34, in inner
+    response = get_response(request)
+  File "D:\Progarm\Anaconda3\lib\site-packages\django\core\handlers\base.py", line 100, in _get_response
+    resolver_match = resolver.resolve(request.path_info)
+  File "D:\Progarm\Anaconda3\lib\site-packages\django\urls\resolvers.py", line 566, in resolve
+    raise Resolver404({'tried': tried, 'path': new_path})
+django.urls.exceptions.Resolver404: {'tried': [[<URLResolver <URLPattern list> (admin:admin) 'admin/'>], [<URLPattern 'index/'>], [<URLResolver <module 'app.urls' from 'D:\\wxServer\\fileserver\\app\\urls.py'> (None:None) ''>, <URLPattern 'uploadFile/'>], [<URLResolver <module 'app.urls' from 'D:\\wxServer\\fileserver\\app\\urls.py'> (None:None) ''>, <URLPattern 'bh/'>], [<URLResolver <module 'app.urls' from 'D:\\wxServer\\fileserver\\app\\urls.py'> (None:None) ''>, <URLPattern 'uploadFile/'>], [<URLResolver <module 'app.urls' from 'D:\\wxServer\\fileserver\\app\\urls.py'> (None:None) ''>, <URLPattern 'bh/'>], [<URLResolver <module 'app.urls' from 'D:\\wxServer\\fileserver\\app\\urls.py'> (None:None) ''>, <URLPattern 'uploadFile/'>], [<URLResolver <module 'app.urls' from 'D:\\wxServer\\fileserver\\app\\urls.py'> (None:None) ''>, <URLPattern 'bh/'>], [<URLPattern 'api/'>], [<URLPattern 'uploadFile01/'>], [<URLPattern 'bh01/'>], [<URLPattern 'media/'>], [<URLPattern 'media/(?P<path>.*)$'>]], 'path': 'favicon.ico'}
+
+During handling of the above exception, another exception occurred:
+
+Traceback (most recent call last):
+  File "D:\Progarm\Anaconda3\lib\site-packages\django\template\base.py", line 829, in _resolve_lookup
+    current = current[bit]
+TypeError: 'URLResolver' object is not subscriptable
+
+During handling of the above exception, another exception occurred:
+
+Traceback (most recent call last):
+  File "D:\Progarm\Anaconda3\lib\site-packages\django\template\base.py", line 837, in _resolve_lookup
+    current = getattr(current, bit)
+AttributeError: 'URLResolver' object has no attribute 'name'
+
+During handling of the above exception, another exception occurred:
+
+Traceback (most recent call last):
+  File "D:\Progarm\Anaconda3\lib\site-packages\django\template\base.py", line 843, in _resolve_lookup
+    current = current[int(bit)]
+ValueError: invalid literal for int() with base 10: 'name'
+
+During handling of the above exception, another exception occurred:
+
+Traceback (most recent call last):
+  File "D:\Progarm\Anaconda3\lib\site-packages\django\template\base.py", line 850, in _resolve_lookup
+    (bit, current))  # missing attribute
+django.template.base.VariableDoesNotExist: Failed lookup for key [name] in <URLResolver <URLPattern list> (admin:admin) 'admin/'>
+WARNING:django.request:Not Found: /favicon.ico
+WARNING:django.server:"GET /favicon.ico HTTP/1.1" 404 3559
+DEBUG:django.utils.autoreload:File D:\wxServer\fileserver\fileserver\urls.py previous mtime: 1566223167.0974028, current mtime: 1566226037.1495688
+DEBUG:django.utils.autoreload:D:\wxServer\fileserver\fileserver\urls.py notified as changed. Signal results: [(<function translation_file_changed at 0x000001E22894D158>, None)].
+INFO:django.utils.autoreload:D:\wxServer\fileserver\fileserver\urls.py changed, reloading.
+DEBUG:django.utils.autoreload:File D:\Progarm\Anaconda3\Lib\netrc.py first seen with mtime 1553548865.0
+DEBUG:django.utils.autoreload:File D:\Progarm\Anaconda3\Lib\shlex.py first seen with mtime 1553548865.0
+ERROR:root:Unable to save D:/wxServer/fileserver/media\wx5958ef33e1aeaf56.o6zAJs7eDvKwg0bUs9EWfBZf4Pz8.5jCQbniFswxN8ce19a79895cd9be40e897f6e363c325.jpg_no_bg.png due to missing api key
+INFO:django.server:"POST /uploadFile01/ HTTP/1.1" 200 21
+DEBUG:django.utils.autoreload:File D:\Progarm\Anaconda3\Lib\encodings\charmap.py first seen with mtime 1553548865.0
+INFO:django.server:"GET /bh01/?formula=3%2B3 HTTP/1.1" 200 9
+INFO:django.server:"GET /bh01/?formula=2%2B2 HTTP/1.1" 200 9
+INFO:django.server:"GET /bh01/?formula=1%2B1 HTTP/1.1" 200 9
+INFO:django.server:"GET /bh01/?formula=3%2B3 HTTP/1.1" 200 9
+ERROR:root:Unable to save D:/wxServer/fileserver/media\wx5958ef33e1aeaf56.o6zAJs7eDvKwg0bUs9EWfBZf4Pz8.m63fJtFqnTxw8ce19a79895cd9be40e897f6e363c325.jpg_no_bg.png due to missing api key
+INFO:django.server:"POST /uploadFile01/ HTTP/1.1" 200 21
+INFO:django.server:"GET /bh01/?formula=3%2B3 HTTP/1.1" 200 9
+ERROR:root:Unable to save D:/wxServer/fileserver/media\wx5958ef33e1aeaf56.o6zAJs7eDvKwg0bUs9EWfBZf4Pz8.otOspmhmztoc8ce19a79895cd9be40e897f6e363c325.jpg_no_bg.png due to missing api key
+INFO:django.server:"POST /uploadFile01/ HTTP/1.1" 200 21
+INFO:django.server:"GET /bh01/?formula=3%2B3 HTTP/1.1" 200 9
+INFO:django.server:"GET /bh01/?formula=2%2B2 HTTP/1.1" 200 9
+DEBUG:django.utils.autoreload:File D:\wxServer\fileserver\fileserver\views.py previous mtime: 1566222915.2246163, current mtime: 1566226326.6413026
+DEBUG:django.utils.autoreload:D:\wxServer\fileserver\fileserver\views.py notified as changed. Signal results: [(<function translation_file_changed at 0x000001EBB762D158>, None)].
+INFO:django.utils.autoreload:D:\wxServer\fileserver\fileserver\views.py changed, reloading.
+DEBUG:django.utils.autoreload:File D:\Progarm\Anaconda3\Lib\site-packages\django\contrib\messages\storage\session.py first seen with mtime 1565342861.676822
+DEBUG:django.utils.autoreload:File D:\Progarm\Anaconda3\Lib\netrc.py first seen with mtime 1553548865.0
+DEBUG:django.utils.autoreload:File D:\Progarm\Anaconda3\Lib\site-packages\django\contrib\messages\utils.py first seen with mtime 1565342861.6500058
+DEBUG:django.utils.autoreload:File D:\Progarm\Anaconda3\Lib\site-packages\django\contrib\sessions\serializers.py first seen with mtime 1565342863.3883898
+DEBUG:django.utils.autoreload:File D:\Progarm\Anaconda3\Lib\site-packages\django\contrib\messages\storage\cookie.py first seen with mtime 1565342861.667364
+DEBUG:django.utils.autoreload:File D:\Progarm\Anaconda3\Lib\shlex.py first seen with mtime 1553548865.0
+DEBUG:django.utils.autoreload:File D:\Progarm\Anaconda3\Lib\site-packages\django\contrib\messages\storage\fallback.py first seen with mtime 1565342861.6723256
+DEBUG:django.utils.autoreload:File D:\Progarm\Anaconda3\Lib\site-packages\django\contrib\messages\storage\base.py first seen with mtime 1565342861.6624057
+DEBUG:django.utils.autoreload:File D:\Progarm\Anaconda3\Lib\encodings\charmap.py first seen with mtime 1553548865.0
+ERROR:root:Unable to save D:/wxServer/fileserver/media\wx5958ef33e1aeaf56.o6zAJs7eDvKwg0bUs9EWfBZf4Pz8.ksPlkQM7pFgp8ce19a79895cd9be40e897f6e363c325.jpg_no_bg.png due to missing api key
+INFO:django.server:"POST /uploadFile01/ HTTP/1.1" 200 4
+INFO:django.server:"GET /api/?api_data=http%3A%2F%2F127.0.0.1%3A8000 HTTP/1.1" 200 0
+ERROR:root:Unable to save D:/wxServer/fileserver/media\wx5958ef33e1aeaf56.o6zAJs7eDvKwg0bUs9EWfBZf4Pz8.nbmDXozzp55u8ce19a79895cd9be40e897f6e363c325.jpg_no_bg.png due to api key invalid
+INFO:django.server:"POST /uploadFile01/ HTTP/1.1" 200 21
+INFO:django.server:"GET /api/?api_data=1P9vtwjhabXYUVaU5qK9TaEa HTTP/1.1" 200 0
+INFO:django.server:"POST /uploadFile01/ HTTP/1.1" 200 24
+INFO:django.server:"GET /bh01/?formula=3%2B3 HTTP/1.1" 200 134
+DEBUG:django.utils.autoreload:File D:\Progarm\Anaconda3\Lib\site-packages\PIL\BmpImagePlugin.py first seen with mtime 1546712771.0
+DEBUG:django.utils.autoreload:File D:\Progarm\Anaconda3\Lib\site-packages\PIL\ImageFile.py first seen with mtime 1546712836.0
+DEBUG:django.utils.autoreload:File D:\Progarm\Anaconda3\Lib\site-packages\PIL\TiffTags.py first seen with mtime 1546712771.0
+DEBUG:django.utils.autoreload:File D:\Progarm\Anaconda3\Lib\site-packages\PIL\PaletteFile.py first seen with mtime 1546712771.0
+DEBUG:django.utils.autoreload:File D:\Progarm\Anaconda3\Lib\site-packages\PIL\ImagePalette.py first seen with mtime 1546712771.0
+DEBUG:django.utils.autoreload:File D:\Progarm\Anaconda3\Lib\site-packages\PIL\ImageSequence.py first seen with mtime 1546712771.0
+DEBUG:django.utils.autoreload:File D:\Progarm\Anaconda3\Lib\site-packages\PIL\JpegImagePlugin.py first seen with mtime 1546712771.0
+DEBUG:django.utils.autoreload:File D:\Progarm\Anaconda3\Lib\site-packages\PIL\PngImagePlugin.py first seen with mtime 1546714852.0
+DEBUG:django.utils.autoreload:File D:\Progarm\Anaconda3\Lib\site-packages\PIL\PpmImagePlugin.py first seen with mtime 1546712771.0
+DEBUG:django.utils.autoreload:File D:\Progarm\Anaconda3\Lib\site-packages\PIL\GimpGradientFile.py first seen with mtime 1546712771.0
+DEBUG:django.utils.autoreload:File D:\Progarm\Anaconda3\Lib\site-packages\PIL\ImageChops.py first seen with mtime 1546712771.0
+DEBUG:django.utils.autoreload:File D:\Progarm\Anaconda3\Lib\site-packages\PIL\GimpPaletteFile.py first seen with mtime 1546712771.0
+DEBUG:django.utils.autoreload:File D:\Progarm\Anaconda3\Lib\site-packages\PIL\GifImagePlugin.py first seen with mtime 1546775698.0
+DEBUG:django.utils.autoreload:File D:\Progarm\Anaconda3\Lib\site-packages\PIL\TiffImagePlugin.py first seen with mtime 1546775698.0
+DEBUG:django.template:Exception while resolving variable 'name' in template 'unknown'.
+Traceback (most recent call last):
+  File "D:\Progarm\Anaconda3\lib\site-packages\django\core\handlers\exception.py", line 34, in inner
+    response = get_response(request)
+  File "D:\Progarm\Anaconda3\lib\site-packages\django\core\handlers\base.py", line 100, in _get_response
+    resolver_match = resolver.resolve(request.path_info)
+  File "D:\Progarm\Anaconda3\lib\site-packages\django\urls\resolvers.py", line 566, in resolve
+    raise Resolver404({'tried': tried, 'path': new_path})
+django.urls.exceptions.Resolver404: {'tried': [[<URLResolver <URLPattern list> (admin:admin) 'admin/'>], [<URLPattern 'index/'>], [<URLResolver <module 'app.urls' from 'D:\\wxServer\\fileserver\\app\\urls.py'> (None:None) ''>, <URLPattern 'uploadFile/'>], [<URLResolver <module 'app.urls' from 'D:\\wxServer\\fileserver\\app\\urls.py'> (None:None) ''>, <URLPattern 'bh/'>], [<URLResolver <module 'app.urls' from 'D:\\wxServer\\fileserver\\app\\urls.py'> (None:None) ''>, <URLPattern 'uploadFile/'>], [<URLResolver <module 'app.urls' from 'D:\\wxServer\\fileserver\\app\\urls.py'> (None:None) ''>, <URLPattern 'bh/'>], [<URLPattern 'api/'>], [<URLPattern 'uploadFile01/'>], [<URLPattern 'bh01/'>], [<URLPattern 'media/'>], [<URLPattern 'media/(?P<path>.*)$'>]], 'path': 'download/wx5958ef33e1aeaf56.o6zAJs7eDvKwg0bUs9EWfBZf4Pz8.nbmDXozzp55u8ce19a79895cd9be40e897f6e363c325.jpg_bh.png'}
+
+During handling of the above exception, another exception occurred:
+
+Traceback (most recent call last):
+  File "D:\Progarm\Anaconda3\lib\site-packages\django\template\base.py", line 829, in _resolve_lookup
+    current = current[bit]
+TypeError: 'URLResolver' object is not subscriptable
+
+During handling of the above exception, another exception occurred:
+
+Traceback (most recent call last):
+  File "D:\Progarm\Anaconda3\lib\site-packages\django\template\base.py", line 837, in _resolve_lookup
+    current = getattr(current, bit)
+AttributeError: 'URLResolver' object has no attribute 'name'
+
+During handling of the above exception, another exception occurred:
+
+Traceback (most recent call last):
+  File "D:\Progarm\Anaconda3\lib\site-packages\django\template\base.py", line 843, in _resolve_lookup
+    current = current[int(bit)]
+ValueError: invalid literal for int() with base 10: 'name'
+
+During handling of the above exception, another exception occurred:
+
+Traceback (most recent call last):
+  File "D:\Progarm\Anaconda3\lib\site-packages\django\template\base.py", line 850, in _resolve_lookup
+    (bit, current))  # missing attribute
+django.template.base.VariableDoesNotExist: Failed lookup for key [name] in <URLResolver <URLPattern list> (admin:admin) 'admin/'>
+WARNING:django.request:Not Found: /download/wx5958ef33e1aeaf56.o6zAJs7eDvKwg0bUs9EWfBZf4Pz8.nbmDXozzp55u8ce19a79895cd9be40e897f6e363c325.jpg_bh.png
+WARNING:django.server:"GET /download/wx5958ef33e1aeaf56.o6zAJs7eDvKwg0bUs9EWfBZf4Pz8.nbmDXozzp55u8ce19a79895cd9be40e897f6e363c325.jpg_bh.png HTTP/1.1" 404 3554
+DEBUG:django.utils.autoreload:File D:\Progarm\Anaconda3\Lib\site-packages\PIL\JpegPresets.py first seen with mtime 1546712771.0
+INFO:django.server:"GET /bh01/?formula=1%2B1 HTTP/1.1" 200 134
+DEBUG:django.template:Exception while resolving variable 'name' in template 'unknown'.
+Traceback (most recent call last):
+  File "D:\Progarm\Anaconda3\lib\site-packages\django\core\handlers\exception.py", line 34, in inner
+    response = get_response(request)
+  File "D:\Progarm\Anaconda3\lib\site-packages\django\core\handlers\base.py", line 100, in _get_response
+    resolver_match = resolver.resolve(request.path_info)
+  File "D:\Progarm\Anaconda3\lib\site-packages\django\urls\resolvers.py", line 566, in resolve
+    raise Resolver404({'tried': tried, 'path': new_path})
+django.urls.exceptions.Resolver404: {'tried': [[<URLResolver <URLPattern list> (admin:admin) 'admin/'>], [<URLPattern 'index/'>], [<URLResolver <module 'app.urls' from 'D:\\wxServer\\fileserver\\app\\urls.py'> (None:None) ''>, <URLPattern 'uploadFile/'>], [<URLResolver <module 'app.urls' from 'D:\\wxServer\\fileserver\\app\\urls.py'> (None:None) ''>, <URLPattern 'bh/'>], [<URLResolver <module 'app.urls' from 'D:\\wxServer\\fileserver\\app\\urls.py'> (None:None) ''>, <URLPattern 'uploadFile/'>], [<URLResolver <module 'app.urls' from 'D:\\wxServer\\fileserver\\app\\urls.py'> (None:None) ''>, <URLPattern 'bh/'>], [<URLPattern 'api/'>], [<URLPattern 'uploadFile01/'>], [<URLPattern 'bh01/'>], [<URLPattern 'media/'>], [<URLPattern 'media/(?P<path>.*)$'>]], 'path': 'download/wx5958ef33e1aeaf56.o6zAJs7eDvKwg0bUs9EWfBZf4Pz8.nbmDXozzp55u8ce19a79895cd9be40e897f6e363c325.jpg_bh.png'}
+
+During handling of the above exception, another exception occurred:
+
+Traceback (most recent call last):
+  File "D:\Progarm\Anaconda3\lib\site-packages\django\template\base.py", line 829, in _resolve_lookup
+    current = current[bit]
+TypeError: 'URLResolver' object is not subscriptable
+
+During handling of the above exception, another exception occurred:
+
+Traceback (most recent call last):
+  File "D:\Progarm\Anaconda3\lib\site-packages\django\template\base.py", line 837, in _resolve_lookup
+    current = getattr(current, bit)
+AttributeError: 'URLResolver' object has no attribute 'name'
+
+During handling of the above exception, another exception occurred:
+
+Traceback (most recent call last):
+  File "D:\Progarm\Anaconda3\lib\site-packages\django\template\base.py", line 843, in _resolve_lookup
+    current = current[int(bit)]
+ValueError: invalid literal for int() with base 10: 'name'
+
+During handling of the above exception, another exception occurred:
+
+Traceback (most recent call last):
+  File "D:\Progarm\Anaconda3\lib\site-packages\django\template\base.py", line 850, in _resolve_lookup
+    (bit, current))  # missing attribute
+django.template.base.VariableDoesNotExist: Failed lookup for key [name] in <URLResolver <URLPattern list> (admin:admin) 'admin/'>
+WARNING:django.request:Not Found: /download/wx5958ef33e1aeaf56.o6zAJs7eDvKwg0bUs9EWfBZf4Pz8.nbmDXozzp55u8ce19a79895cd9be40e897f6e363c325.jpg_bh.png
+WARNING:django.server:"GET /download/wx5958ef33e1aeaf56.o6zAJs7eDvKwg0bUs9EWfBZf4Pz8.nbmDXozzp55u8ce19a79895cd9be40e897f6e363c325.jpg_bh.png HTTP/1.1" 404 3554
+DEBUG:django.template:Exception while resolving variable 'name' in template 'unknown'.
+Traceback (most recent call last):
+  File "D:\Progarm\Anaconda3\lib\site-packages\django\core\handlers\exception.py", line 34, in inner
+    response = get_response(request)
+  File "D:\Progarm\Anaconda3\lib\site-packages\django\core\handlers\base.py", line 100, in _get_response
+    resolver_match = resolver.resolve(request.path_info)
+  File "D:\Progarm\Anaconda3\lib\site-packages\django\urls\resolvers.py", line 566, in resolve
+    raise Resolver404({'tried': tried, 'path': new_path})
+django.urls.exceptions.Resolver404: {'tried': [[<URLResolver <URLPattern list> (admin:admin) 'admin/'>], [<URLPattern 'index/'>], [<URLResolver <module 'app.urls' from 'D:\\wxServer\\fileserver\\app\\urls.py'> (None:None) ''>, <URLPattern 'uploadFile/'>], [<URLResolver <module 'app.urls' from 'D:\\wxServer\\fileserver\\app\\urls.py'> (None:None) ''>, <URLPattern 'bh/'>], [<URLResolver <module 'app.urls' from 'D:\\wxServer\\fileserver\\app\\urls.py'> (None:None) ''>, <URLPattern 'uploadFile/'>], [<URLResolver <module 'app.urls' from 'D:\\wxServer\\fileserver\\app\\urls.py'> (None:None) ''>, <URLPattern 'bh/'>], [<URLPattern 'api/'>], [<URLPattern 'uploadFile01/'>], [<URLPattern 'bh01/'>], [<URLPattern 'media/'>], [<URLPattern 'media/(?P<path>.*)$'>]], 'path': 'download/wx5958ef33e1aeaf56.o6zAJs7eDvKwg0bUs9EWfBZf4Pz8.nbmDXozzp55u8ce19a79895cd9be40e897f6e363c325.jpg_bh.png'}
+
+During handling of the above exception, another exception occurred:
+
+Traceback (most recent call last):
+  File "D:\Progarm\Anaconda3\lib\site-packages\django\template\base.py", line 829, in _resolve_lookup
+    current = current[bit]
+TypeError: 'URLResolver' object is not subscriptable
+
+During handling of the above exception, another exception occurred:
+
+Traceback (most recent call last):
+  File "D:\Progarm\Anaconda3\lib\site-packages\django\template\base.py", line 837, in _resolve_lookup
+    current = getattr(current, bit)
+AttributeError: 'URLResolver' object has no attribute 'name'
+
+During handling of the above exception, another exception occurred:
+
+Traceback (most recent call last):
+  File "D:\Progarm\Anaconda3\lib\site-packages\django\template\base.py", line 843, in _resolve_lookup
+    current = current[int(bit)]
+ValueError: invalid literal for int() with base 10: 'name'
+
+During handling of the above exception, another exception occurred:
+
+Traceback (most recent call last):
+  File "D:\Progarm\Anaconda3\lib\site-packages\django\template\base.py", line 850, in _resolve_lookup
+    (bit, current))  # missing attribute
+django.template.base.VariableDoesNotExist: Failed lookup for key [name] in <URLResolver <URLPattern list> (admin:admin) 'admin/'>
+WARNING:django.request:Not Found: /download/wx5958ef33e1aeaf56.o6zAJs7eDvKwg0bUs9EWfBZf4Pz8.nbmDXozzp55u8ce19a79895cd9be40e897f6e363c325.jpg_bh.png
+WARNING:django.server:"GET /download/wx5958ef33e1aeaf56.o6zAJs7eDvKwg0bUs9EWfBZf4Pz8.nbmDXozzp55u8ce19a79895cd9be40e897f6e363c325.jpg_bh.png HTTP/1.1" 404 3554
+DEBUG:django.utils.autoreload:File D:\wxServer\fileserver\fileserver\color.py previous mtime: 1565847124.9182673, current mtime: 1566226496.4160821
+DEBUG:django.utils.autoreload:D:\wxServer\fileserver\fileserver\color.py notified as changed. Signal results: [(<function translation_file_changed at 0x0000022C9ABFD158>, None)].
+INFO:django.utils.autoreload:D:\wxServer\fileserver\fileserver\color.py changed, reloading.
+DEBUG:django.utils.autoreload:File D:\Progarm\Anaconda3\Lib\site-packages\django\contrib\messages\storage\cookie.py first seen with mtime 1565342861.667364
+DEBUG:django.utils.autoreload:File D:\Progarm\Anaconda3\Lib\site-packages\django\contrib\sessions\serializers.py first seen with mtime 1565342863.3883898
+DEBUG:django.utils.autoreload:File D:\Progarm\Anaconda3\Lib\site-packages\django\contrib\messages\storage\fallback.py first seen with mtime 1565342861.6723256
+DEBUG:django.utils.autoreload:File D:\Progarm\Anaconda3\Lib\shlex.py first seen with mtime 1553548865.0
+DEBUG:django.utils.autoreload:File D:\Progarm\Anaconda3\Lib\site-packages\django\contrib\messages\utils.py first seen with mtime 1565342861.6500058
+DEBUG:django.utils.autoreload:File D:\Progarm\Anaconda3\Lib\site-packages\django\contrib\messages\storage\base.py first seen with mtime 1565342861.6624057
+DEBUG:django.utils.autoreload:File D:\Progarm\Anaconda3\Lib\netrc.py first seen with mtime 1553548865.0
+DEBUG:django.utils.autoreload:File D:\Progarm\Anaconda3\Lib\site-packages\django\contrib\messages\storage\session.py first seen with mtime 1565342861.676822
+DEBUG:django.utils.autoreload:File D:\Progarm\Anaconda3\Lib\encodings\charmap.py first seen with mtime 1553548865.0
+INFO:django.server:"POST /uploadFile01/ HTTP/1.1" 200 24
+INFO:django.server:"GET /bh01/?formula=3%2B3 HTTP/1.1" 200 131
+INFO:django.server:"GET /media/wx5958ef33e1aeaf56.o6zAJs7eDvKwg0bUs9EWfBZf4Pz8.y5Xzg63yhJaa8ce19a79895cd9be40e897f6e363c325.jpg_bh.png HTTP/1.1" 200 138128
+DEBUG:django.utils.autoreload:File D:\Progarm\Anaconda3\Lib\site-packages\PIL\PpmImagePlugin.py first seen with mtime 1546712771.0
+DEBUG:django.utils.autoreload:File D:\Progarm\Anaconda3\Lib\site-packages\PIL\GimpPaletteFile.py first seen with mtime 1546712771.0
+DEBUG:django.utils.autoreload:File D:\Progarm\Anaconda3\Lib\site-packages\PIL\TiffImagePlugin.py first seen with mtime 1546775698.0
+DEBUG:django.utils.autoreload:File D:\Progarm\Anaconda3\Lib\site-packages\PIL\ImageSequence.py first seen with mtime 1546712771.0
+DEBUG:django.utils.autoreload:File D:\Progarm\Anaconda3\Lib\site-packages\PIL\ImageChops.py first seen with mtime 1546712771.0
+DEBUG:django.utils.autoreload:File D:\Progarm\Anaconda3\Lib\site-packages\PIL\GimpGradientFile.py first seen with mtime 1546712771.0
+DEBUG:django.utils.autoreload:File D:\Progarm\Anaconda3\Lib\site-packages\PIL\PaletteFile.py first seen with mtime 1546712771.0
+DEBUG:django.utils.autoreload:File D:\Progarm\Anaconda3\Lib\site-packages\PIL\JpegImagePlugin.py first seen with mtime 1546712771.0
+DEBUG:django.utils.autoreload:File D:\Progarm\Anaconda3\Lib\site-packages\PIL\TiffTags.py first seen with mtime 1546712771.0
+DEBUG:django.utils.autoreload:File D:\Progarm\Anaconda3\Lib\site-packages\PIL\GifImagePlugin.py first seen with mtime 1546775698.0
+DEBUG:django.utils.autoreload:File D:\Progarm\Anaconda3\Lib\site-packages\PIL\PngImagePlugin.py first seen with mtime 1546714852.0
+DEBUG:django.utils.autoreload:File D:\Progarm\Anaconda3\Lib\site-packages\PIL\JpegPresets.py first seen with mtime 1546712771.0
+DEBUG:django.utils.autoreload:File D:\Progarm\Anaconda3\Lib\site-packages\PIL\BmpImagePlugin.py first seen with mtime 1546712771.0
+DEBUG:django.utils.autoreload:File D:\Progarm\Anaconda3\Lib\site-packages\PIL\ImageFile.py first seen with mtime 1546712836.0
+DEBUG:django.utils.autoreload:File D:\Progarm\Anaconda3\Lib\site-packages\PIL\ImagePalette.py first seen with mtime 1546712771.0
+INFO:django.server:"GET /bh01/?formula=2%2B2 HTTP/1.1" 200 131
+INFO:django.server:"GET /media/wx5958ef33e1aeaf56.o6zAJs7eDvKwg0bUs9EWfBZf4Pz8.y5Xzg63yhJaa8ce19a79895cd9be40e897f6e363c325.jpg_bh.png HTTP/1.1" 200 137921
+INFO:django.server:"GET /bh01/?formula=1%2B1 HTTP/1.1" 200 131
+INFO:django.server:"GET /media/wx5958ef33e1aeaf56.o6zAJs7eDvKwg0bUs9EWfBZf4Pz8.y5Xzg63yhJaa8ce19a79895cd9be40e897f6e363c325.jpg_bh.png HTTP/1.1" 200 140015
+INFO:django.server:"GET /api/?api_data=1P9vtwjhabXYUVaU5qK9TaEa HTTP/1.1" 200 0
+INFO:django.server:"POST /uploadFile01/ HTTP/1.1" 200 24
+INFO:django.server:"GET /bh01/?formula=3%2B3 HTTP/1.1" 200 131
+INFO:django.server:"GET /media/wx5958ef33e1aeaf56.o6zAJs7eDvKwg0bUs9EWfBZf4Pz8.Ru8D79JKS6RL8ce19a79895cd9be40e897f6e363c325.jpg_bh.png HTTP/1.1" 200 138128
+INFO:django.server:"GET /bh01/?formula=2%2B2 HTTP/1.1" 200 131
+INFO:django.server:"GET /media/wx5958ef33e1aeaf56.o6zAJs7eDvKwg0bUs9EWfBZf4Pz8.Ru8D79JKS6RL8ce19a79895cd9be40e897f6e363c325.jpg_bh.png HTTP/1.1" 200 137921
+INFO:django.server:"GET /bh01/?formula=1%2B1 HTTP/1.1" 200 131
+INFO:django.server:"GET /media/wx5958ef33e1aeaf56.o6zAJs7eDvKwg0bUs9EWfBZf4Pz8.Ru8D79JKS6RL8ce19a79895cd9be40e897f6e363c325.jpg_bh.png HTTP/1.1" 200 140015
+ERROR:django.request:Internal Server Error: /media/
+Traceback (most recent call last):
+  File "D:\Progarm\Anaconda3\lib\site-packages\django\core\handlers\exception.py", line 34, in inner
+    response = get_response(request)
+  File "D:\Progarm\Anaconda3\lib\site-packages\django\core\handlers\base.py", line 115, in _get_response
+    response = self.process_exception_by_middleware(e, request)
+  File "D:\Progarm\Anaconda3\lib\site-packages\django\core\handlers\base.py", line 113, in _get_response
+    response = wrapped_callback(request, *callback_args, **callback_kwargs)
+TypeError: download() takes 0 positional arguments but 1 was given
+ERROR:django.server:"GET /media/ HTTP/1.1" 500 61898
+DEBUG:django.utils.autoreload:File D:\Progarm\Anaconda3\Lib\site-packages\django\conf\locale\zh_Hans\__init__.py first seen with mtime 1565342851.9799035
+DEBUG:django.utils.autoreload:File D:\Progarm\Anaconda3\Lib\site-packages\django\conf\locale\zh_Hans\formats.py first seen with mtime 1565342851.9803689
+INFO:django.server:"GET /api/?api_data=1P9vtwjhabXYUVaU5qK9TaEa HTTP/1.1" 200 0
+INFO:django.server:"POST /uploadFile01/ HTTP/1.1" 200 24
+INFO:django.server:"GET /bh01/?formula=3%2B3 HTTP/1.1" 200 131
+INFO:django.server:"GET /media/wx5958ef33e1aeaf56.o6zAJs7eDvKwg0bUs9EWfBZf4Pz8.ouKYvqhADzGv8ce19a79895cd9be40e897f6e363c325.jpg_bh.png HTTP/1.1" 200 138128
+ERROR:django.request:Internal Server Error: /media/
+Traceback (most recent call last):
+  File "D:\Progarm\Anaconda3\lib\site-packages\django\core\handlers\exception.py", line 34, in inner
+    response = get_response(request)
+  File "D:\Progarm\Anaconda3\lib\site-packages\django\core\handlers\base.py", line 115, in _get_response
+    response = self.process_exception_by_middleware(e, request)
+  File "D:\Progarm\Anaconda3\lib\site-packages\django\core\handlers\base.py", line 113, in _get_response
+    response = wrapped_callback(request, *callback_args, **callback_kwargs)
+TypeError: download() takes 0 positional arguments but 1 was given
+ERROR:django.server:"GET /media/ HTTP/1.1" 500 61340
+INFO:django.server:"GET /api/?api_data=1P9vtwjhabXYUVaU5qK9TaEa HTTP/1.1" 200 0
+DEBUG:django.utils.autoreload:File D:\Progarm\Anaconda3\Lib\site-packages\django\contrib\messages\storage\cookie.py first seen with mtime 1565342861.667364
+DEBUG:django.utils.autoreload:File D:\Progarm\Anaconda3\Lib\site-packages\django\contrib\messages\storage\session.py first seen with mtime 1565342861.676822
+DEBUG:django.utils.autoreload:File D:\Progarm\Anaconda3\Lib\site-packages\django\contrib\messages\storage\base.py first seen with mtime 1565342861.6624057
+DEBUG:django.utils.autoreload:File D:\Progarm\Anaconda3\Lib\site-packages\django\contrib\messages\utils.py first seen with mtime 1565342861.6500058
+DEBUG:django.utils.autoreload:File D:\Progarm\Anaconda3\Lib\site-packages\django\contrib\sessions\serializers.py first seen with mtime 1565342863.3883898
+DEBUG:django.utils.autoreload:File D:\Progarm\Anaconda3\Lib\site-packages\django\contrib\messages\storage\fallback.py first seen with mtime 1565342861.6723256
+DEBUG:django.utils.autoreload:File D:\Progarm\Anaconda3\Lib\shlex.py first seen with mtime 1553548865.0
+DEBUG:django.utils.autoreload:File D:\Progarm\Anaconda3\Lib\encodings\charmap.py first seen with mtime 1553548865.0
+DEBUG:django.utils.autoreload:File D:\Progarm\Anaconda3\Lib\netrc.py first seen with mtime 1553548865.0
+INFO:django.server:"POST /uploadFile01/ HTTP/1.1" 200 24
+INFO:django.server:"GET /bh01/?formula=3%2B3 HTTP/1.1" 200 131
+DEBUG:django.utils.autoreload:File D:\Progarm\Anaconda3\Lib\site-packages\PIL\TiffImagePlugin.py first seen with mtime 1546775698.0
+DEBUG:django.utils.autoreload:File D:\Progarm\Anaconda3\Lib\site-packages\PIL\TiffTags.py first seen with mtime 1546712771.0
+DEBUG:django.utils.autoreload:File D:\Progarm\Anaconda3\Lib\site-packages\PIL\PngImagePlugin.py first seen with mtime 1546714852.0
+DEBUG:django.utils.autoreload:File D:\Progarm\Anaconda3\Lib\site-packages\PIL\GimpGradientFile.py first seen with mtime 1546712771.0
+DEBUG:django.utils.autoreload:File D:\Progarm\Anaconda3\Lib\site-packages\PIL\BmpImagePlugin.py first seen with mtime 1546712771.0
+DEBUG:django.utils.autoreload:File D:\Progarm\Anaconda3\Lib\site-packages\PIL\ImageSequence.py first seen with mtime 1546712771.0
+DEBUG:django.utils.autoreload:File D:\Progarm\Anaconda3\Lib\site-packages\PIL\PaletteFile.py first seen with mtime 1546712771.0
+DEBUG:django.utils.autoreload:File D:\Progarm\Anaconda3\Lib\site-packages\PIL\ImagePalette.py first seen with mtime 1546712771.0
+DEBUG:django.utils.autoreload:File D:\Progarm\Anaconda3\Lib\site-packages\PIL\JpegImagePlugin.py first seen with mtime 1546712771.0
+DEBUG:django.utils.autoreload:File D:\Progarm\Anaconda3\Lib\site-packages\PIL\JpegPresets.py first seen with mtime 1546712771.0
+DEBUG:django.utils.autoreload:File D:\Progarm\Anaconda3\Lib\site-packages\PIL\GimpPaletteFile.py first seen with mtime 1546712771.0
+DEBUG:django.utils.autoreload:File D:\Progarm\Anaconda3\Lib\site-packages\PIL\ImageChops.py first seen with mtime 1546712771.0
+DEBUG:django.utils.autoreload:File D:\Progarm\Anaconda3\Lib\site-packages\PIL\PpmImagePlugin.py first seen with mtime 1546712771.0
+DEBUG:django.utils.autoreload:File D:\Progarm\Anaconda3\Lib\site-packages\PIL\GifImagePlugin.py first seen with mtime 1546775698.0
+DEBUG:django.utils.autoreload:File D:\Progarm\Anaconda3\Lib\site-packages\PIL\ImageFile.py first seen with mtime 1546712836.0
+INFO:django.server:"GET /media/wx5958ef33e1aeaf56.o6zAJs7eDvKwg0bUs9EWfBZf4Pz8.DyQHXWfbjI2K8ce19a79895cd9be40e897f6e363c325.jpg_bh.png HTTP/1.1" 200 138128
+INFO:django.server:"GET /bh01/?formula=2%2B2 HTTP/1.1" 200 131
+INFO:django.server:"GET /bh01/?formula=1%2B1 HTTP/1.1" 200 131
+INFO:django.server:"GET /media/wx5958ef33e1aeaf56.o6zAJs7eDvKwg0bUs9EWfBZf4Pz8.DyQHXWfbjI2K8ce19a79895cd9be40e897f6e363c325.jpg_bh.png HTTP/1.1" 200 140015
+DEBUG:django.utils.autoreload:File D:\wxServer\fileserver\app\color.py previous mtime: 1566222614.1664217, current mtime: 1566272097.2309432
+DEBUG:django.utils.autoreload:D:\wxServer\fileserver\app\color.py notified as changed. Signal results: [(<function translation_file_changed at 0x00000156062BD158>, None)].
+INFO:django.utils.autoreload:D:\wxServer\fileserver\app\color.py changed, reloading.
+DEBUG:django.utils.autoreload:File D:\Progarm\Anaconda3\Lib\site-packages\django\contrib\messages\storage\cookie.py first seen with mtime 1565342861.667364
+DEBUG:django.utils.autoreload:File D:\Progarm\Anaconda3\Lib\site-packages\django\contrib\messages\storage\session.py first seen with mtime 1565342861.676822
+DEBUG:django.utils.autoreload:File D:\Progarm\Anaconda3\Lib\shlex.py first seen with mtime 1553548865.0
+DEBUG:django.utils.autoreload:File D:\Progarm\Anaconda3\Lib\netrc.py first seen with mtime 1553548865.0
+DEBUG:django.utils.autoreload:File D:\Progarm\Anaconda3\Lib\site-packages\django\contrib\sessions\serializers.py first seen with mtime 1565342863.3883898
+DEBUG:django.utils.autoreload:File D:\Progarm\Anaconda3\Lib\site-packages\django\contrib\messages\storage\base.py first seen with mtime 1565342861.6624057
+DEBUG:django.utils.autoreload:File D:\Progarm\Anaconda3\Lib\encodings\charmap.py first seen with mtime 1553548865.0
+DEBUG:django.utils.autoreload:File D:\Progarm\Anaconda3\Lib\site-packages\django\contrib\messages\utils.py first seen with mtime 1565342861.6500058
+DEBUG:django.utils.autoreload:File D:\Progarm\Anaconda3\Lib\site-packages\django\contrib\messages\storage\fallback.py first seen with mtime 1565342861.6723256
+INFO:django.server:"POST /uploadFile/ HTTP/1.1" 200 21
+INFO:django.server:"GET /bh/?formula=3%2B3 HTTP/1.1" 200 131
+DEBUG:django.utils.autoreload:File D:\Progarm\Anaconda3\Lib\site-packages\PIL\PaletteFile.py first seen with mtime 1546712771.0
+DEBUG:django.utils.autoreload:File D:\Progarm\Anaconda3\Lib\site-packages\PIL\GifImagePlugin.py first seen with mtime 1546775698.0
+DEBUG:django.utils.autoreload:File D:\Progarm\Anaconda3\Lib\site-packages\PIL\GimpPaletteFile.py first seen with mtime 1546712771.0
+DEBUG:django.utils.autoreload:File D:\Progarm\Anaconda3\Lib\site-packages\PIL\TiffImagePlugin.py first seen with mtime 1546775698.0
+DEBUG:django.utils.autoreload:File D:\Progarm\Anaconda3\Lib\site-packages\PIL\PpmImagePlugin.py first seen with mtime 1546712771.0
+DEBUG:django.utils.autoreload:File D:\Progarm\Anaconda3\Lib\site-packages\PIL\BmpImagePlugin.py first seen with mtime 1546712771.0
+DEBUG:django.utils.autoreload:File D:\Progarm\Anaconda3\Lib\site-packages\PIL\ImageChops.py first seen with mtime 1546712771.0
+DEBUG:django.utils.autoreload:File D:\Progarm\Anaconda3\Lib\site-packages\PIL\GimpGradientFile.py first seen with mtime 1546712771.0
+DEBUG:django.utils.autoreload:File D:\Progarm\Anaconda3\Lib\site-packages\PIL\ImagePalette.py first seen with mtime 1546712771.0
+DEBUG:django.utils.autoreload:File D:\Progarm\Anaconda3\Lib\site-packages\PIL\JpegImagePlugin.py first seen with mtime 1546712771.0
+DEBUG:django.utils.autoreload:File D:\Progarm\Anaconda3\Lib\site-packages\PIL\TiffTags.py first seen with mtime 1546712771.0
+DEBUG:django.utils.autoreload:File D:\Progarm\Anaconda3\Lib\site-packages\PIL\ImageSequence.py first seen with mtime 1546712771.0
+DEBUG:django.utils.autoreload:File D:\Progarm\Anaconda3\Lib\site-packages\PIL\ImageFile.py first seen with mtime 1546712836.0
+DEBUG:django.utils.autoreload:File D:\Progarm\Anaconda3\Lib\site-packages\PIL\JpegPresets.py first seen with mtime 1546712771.0
+DEBUG:django.utils.autoreload:File D:\Progarm\Anaconda3\Lib\site-packages\PIL\PngImagePlugin.py first seen with mtime 1546714852.0
+INFO:django.server:"GET /media/wx5958ef33e1aeaf56.o6zAJs7eDvKwg0bUs9EWfBZf4Pz8.BA9shxu6BTI08ce19a79895cd9be40e897f6e363c325.jpg_bh.png HTTP/1.1" 200 138128
+DEBUG:django.utils.autoreload:File D:\wxServer\fileserver\fileserver\views.py previous mtime: 1566273484.5983515, current mtime: 1566273580.1911247
+DEBUG:django.utils.autoreload:D:\wxServer\fileserver\fileserver\views.py notified as changed. Signal results: [(<function translation_file_changed at 0x000001B00E53D158>, None)].
+INFO:django.utils.autoreload:D:\wxServer\fileserver\fileserver\views.py changed, reloading.
+DEBUG:django.utils.autoreload:File D:\Progarm\Anaconda3\Lib\site-packages\django\contrib\messages\storage\base.py first seen with mtime 1565342861.6624057
+DEBUG:django.utils.autoreload:File D:\Progarm\Anaconda3\Lib\encodings\charmap.py first seen with mtime 1553548865.0
+DEBUG:django.utils.autoreload:File D:\Progarm\Anaconda3\Lib\site-packages\django\contrib\messages\utils.py first seen with mtime 1565342861.6500058
+DEBUG:django.utils.autoreload:File D:\Progarm\Anaconda3\Lib\site-packages\django\contrib\sessions\serializers.py first seen with mtime 1565342863.3883898
+DEBUG:django.utils.autoreload:File D:\Progarm\Anaconda3\Lib\site-packages\django\contrib\messages\storage\session.py first seen with mtime 1565342861.676822
+DEBUG:django.utils.autoreload:File D:\Progarm\Anaconda3\Lib\site-packages\django\contrib\messages\storage\fallback.py first seen with mtime 1565342861.6723256
+DEBUG:django.utils.autoreload:File D:\Progarm\Anaconda3\Lib\shlex.py first seen with mtime 1553548865.0
+DEBUG:django.utils.autoreload:File D:\Progarm\Anaconda3\Lib\netrc.py first seen with mtime 1553548865.0
+DEBUG:django.utils.autoreload:File D:\Progarm\Anaconda3\Lib\site-packages\django\contrib\messages\storage\cookie.py first seen with mtime 1565342861.667364
+INFO:django.server:"POST /uploadFile/ HTTP/1.1" 200 21
+INFO:django.server:"GET /bh/?formula=3%2B3 HTTP/1.1" 200 131
+INFO:django.server:"GET /media/wx5958ef33e1aeaf56.o6zAJs7eDvKwg0bUs9EWfBZf4Pz8.PgkUf9CUGVUP8ce19a79895cd9be40e897f6e363c325.jpg_bh.png HTTP/1.1" 200 138128
+DEBUG:django.utils.autoreload:File D:\Progarm\Anaconda3\Lib\site-packages\PIL\GimpGradientFile.py first seen with mtime 1546712771.0
+DEBUG:django.utils.autoreload:File D:\Progarm\Anaconda3\Lib\site-packages\PIL\TiffImagePlugin.py first seen with mtime 1546775698.0
+DEBUG:django.utils.autoreload:File D:\Progarm\Anaconda3\Lib\site-packages\PIL\GifImagePlugin.py first seen with mtime 1546775698.0
+DEBUG:django.utils.autoreload:File D:\Progarm\Anaconda3\Lib\site-packages\PIL\PaletteFile.py first seen with mtime 1546712771.0
+DEBUG:django.utils.autoreload:File D:\Progarm\Anaconda3\Lib\site-packages\PIL\PpmImagePlugin.py first seen with mtime 1546712771.0
+DEBUG:django.utils.autoreload:File D:\Progarm\Anaconda3\Lib\site-packages\PIL\ImagePalette.py first seen with mtime 1546712771.0
+DEBUG:django.utils.autoreload:File D:\Progarm\Anaconda3\Lib\site-packages\PIL\JpegImagePlugin.py first seen with mtime 1546712771.0
+DEBUG:django.utils.autoreload:File D:\Progarm\Anaconda3\Lib\site-packages\PIL\ImageChops.py first seen with mtime 1546712771.0
+DEBUG:django.utils.autoreload:File D:\Progarm\Anaconda3\Lib\site-packages\PIL\JpegPresets.py first seen with mtime 1546712771.0
+DEBUG:django.utils.autoreload:File D:\Progarm\Anaconda3\Lib\site-packages\PIL\GimpPaletteFile.py first seen with mtime 1546712771.0
+DEBUG:django.utils.autoreload:File D:\Progarm\Anaconda3\Lib\site-packages\PIL\ImageFile.py first seen with mtime 1546712836.0
+DEBUG:django.utils.autoreload:File D:\Progarm\Anaconda3\Lib\site-packages\PIL\BmpImagePlugin.py first seen with mtime 1546712771.0
+DEBUG:django.utils.autoreload:File D:\Progarm\Anaconda3\Lib\site-packages\PIL\ImageSequence.py first seen with mtime 1546712771.0
+DEBUG:django.utils.autoreload:File D:\Progarm\Anaconda3\Lib\site-packages\PIL\PngImagePlugin.py first seen with mtime 1546714852.0
+DEBUG:django.utils.autoreload:File D:\Progarm\Anaconda3\Lib\site-packages\PIL\TiffTags.py first seen with mtime 1546712771.0
+INFO:django.server:"GET /bh/?formula=2%2B2 HTTP/1.1" 200 131
+INFO:django.server:"GET /media/wx5958ef33e1aeaf56.o6zAJs7eDvKwg0bUs9EWfBZf4Pz8.PgkUf9CUGVUP8ce19a79895cd9be40e897f6e363c325.jpg_bh.png HTTP/1.1" 200 137921
+INFO:django.server:"GET /bh/?formula=1%2B1 HTTP/1.1" 200 131
+INFO:django.server:"GET /media/wx5958ef33e1aeaf56.o6zAJs7eDvKwg0bUs9EWfBZf4Pz8.PgkUf9CUGVUP8ce19a79895cd9be40e897f6e363c325.jpg_bh.png HTTP/1.1" 200 140015
+DEBUG:django.utils.autoreload:File D:\wxServer\fileserver\app\views.py previous mtime: 1566272723.130244, current mtime: 1566273895.2292218
+DEBUG:django.utils.autoreload:D:\wxServer\fileserver\app\views.py notified as changed. Signal results: [(<function translation_file_changed at 0x00000276E712D158>, None)].
+INFO:django.utils.autoreload:D:\wxServer\fileserver\app\views.py changed, reloading.
+DEBUG:django.utils.autoreload:File D:\Progarm\Anaconda3\Lib\site-packages\django\contrib\messages\storage\cookie.py first seen with mtime 1565342861.667364
+DEBUG:django.utils.autoreload:File D:\Progarm\Anaconda3\Lib\site-packages\django\contrib\messages\storage\base.py first seen with mtime 1565342861.6624057
+DEBUG:django.utils.autoreload:File D:\Progarm\Anaconda3\Lib\netrc.py first seen with mtime 1553548865.0
+DEBUG:django.utils.autoreload:File D:\Progarm\Anaconda3\Lib\site-packages\django\contrib\sessions\serializers.py first seen with mtime 1565342863.3883898
+DEBUG:django.utils.autoreload:File D:\Progarm\Anaconda3\Lib\site-packages\django\contrib\messages\storage\session.py first seen with mtime 1565342861.676822
+DEBUG:django.utils.autoreload:File D:\Progarm\Anaconda3\Lib\site-packages\django\contrib\messages\utils.py first seen with mtime 1565342861.6500058
+DEBUG:django.utils.autoreload:File D:\Progarm\Anaconda3\Lib\shlex.py first seen with mtime 1553548865.0
+DEBUG:django.utils.autoreload:File D:\Progarm\Anaconda3\Lib\site-packages\django\contrib\messages\storage\fallback.py first seen with mtime 1565342861.6723256
+DEBUG:django.utils.autoreload:File D:\Progarm\Anaconda3\Lib\encodings\charmap.py first seen with mtime 1553548865.0
+INFO:django.server:"POST /uploadFile01/ HTTP/1.1" 200 21
+INFO:django.server:"GET /bh01/?formula=3%2B3 HTTP/1.1" 200 131
+DEBUG:django.utils.autoreload:File D:\Progarm\Anaconda3\Lib\site-packages\PIL\PngImagePlugin.py first seen with mtime 1546714852.0
+DEBUG:django.utils.autoreload:File D:\Progarm\Anaconda3\Lib\site-packages\PIL\JpegPresets.py first seen with mtime 1546712771.0
+DEBUG:django.utils.autoreload:File D:\Progarm\Anaconda3\Lib\site-packages\PIL\GifImagePlugin.py first seen with mtime 1546775698.0
+DEBUG:django.utils.autoreload:File D:\Progarm\Anaconda3\Lib\site-packages\PIL\ImageFile.py first seen with mtime 1546712836.0
+DEBUG:django.utils.autoreload:File D:\Progarm\Anaconda3\Lib\site-packages\PIL\ImageSequence.py first seen with mtime 1546712771.0
+DEBUG:django.utils.autoreload:File D:\Progarm\Anaconda3\Lib\site-packages\PIL\GimpPaletteFile.py first seen with mtime 1546712771.0
+DEBUG:django.utils.autoreload:File D:\Progarm\Anaconda3\Lib\site-packages\PIL\BmpImagePlugin.py first seen with mtime 1546712771.0
+DEBUG:django.utils.autoreload:File D:\Progarm\Anaconda3\Lib\site-packages\PIL\ImageChops.py first seen with mtime 1546712771.0
+DEBUG:django.utils.autoreload:File D:\Progarm\Anaconda3\Lib\site-packages\PIL\TiffTags.py first seen with mtime 1546712771.0
+DEBUG:django.utils.autoreload:File D:\Progarm\Anaconda3\Lib\site-packages\PIL\GimpGradientFile.py first seen with mtime 1546712771.0
+DEBUG:django.utils.autoreload:File D:\Progarm\Anaconda3\Lib\site-packages\PIL\PaletteFile.py first seen with mtime 1546712771.0
+INFO:django.server:"GET /media/wx5958ef33e1aeaf56.o6zAJs7eDvKwg0bUs9EWfBZf4Pz8.PMHwIDIBm17z8ce19a79895cd9be40e897f6e363c325.jpg_bh.png HTTP/1.1" 200 138128
+DEBUG:django.utils.autoreload:File D:\Progarm\Anaconda3\Lib\site-packages\PIL\PpmImagePlugin.py first seen with mtime 1546712771.0
+DEBUG:django.utils.autoreload:File D:\Progarm\Anaconda3\Lib\site-packages\PIL\TiffImagePlugin.py first seen with mtime 1546775698.0
+DEBUG:django.utils.autoreload:File D:\Progarm\Anaconda3\Lib\site-packages\PIL\ImagePalette.py first seen with mtime 1546712771.0
+DEBUG:django.utils.autoreload:File D:\Progarm\Anaconda3\Lib\site-packages\PIL\JpegImagePlugin.py first seen with mtime 1546712771.0
+INFO:django.server:"GET /bh01/?formula=2%2B2 HTTP/1.1" 200 131
+INFO:django.server:"GET /media/wx5958ef33e1aeaf56.o6zAJs7eDvKwg0bUs9EWfBZf4Pz8.PMHwIDIBm17z8ce19a79895cd9be40e897f6e363c325.jpg_bh.png HTTP/1.1" 200 137921
+INFO:django.server:"GET /bh01/?formula=1%2B1 HTTP/1.1" 200 131
+INFO:django.server:"GET /media/wx5958ef33e1aeaf56.o6zAJs7eDvKwg0bUs9EWfBZf4Pz8.PMHwIDIBm17z8ce19a79895cd9be40e897f6e363c325.jpg_bh.png HTTP/1.1" 200 140015
+INFO:django.server:"GET /api/?api_data=1P9vtwjhabXYUVaU5qK9TaEa HTTP/1.1" 200 0
+INFO:django.server:"POST /uploadFile01/ HTTP/1.1" 200 21
+DEBUG:django.utils.autoreload:File D:\wxServer\fileserver\fileserver\views.py previous mtime: 1566273580.1911247, current mtime: 1566274085.3794851
+DEBUG:django.utils.autoreload:D:\wxServer\fileserver\fileserver\views.py notified as changed. Signal results: [(<function translation_file_changed at 0x00000278DCE1D158>, None)].
+INFO:django.utils.autoreload:D:\wxServer\fileserver\fileserver\views.py changed, reloading.
+DEBUG:django.utils.autoreload:File D:\Progarm\Anaconda3\Lib\shlex.py first seen with mtime 1553548865.0
+DEBUG:django.utils.autoreload:File D:\Progarm\Anaconda3\Lib\site-packages\django\contrib\messages\utils.py first seen with mtime 1565342861.6500058
+DEBUG:django.utils.autoreload:File D:\Progarm\Anaconda3\Lib\site-packages\django\contrib\messages\storage\base.py first seen with mtime 1565342861.6624057
+DEBUG:django.utils.autoreload:File D:\Progarm\Anaconda3\Lib\site-packages\django\contrib\messages\storage\cookie.py first seen with mtime 1565342861.667364
+DEBUG:django.utils.autoreload:File D:\Progarm\Anaconda3\Lib\site-packages\django\contrib\sessions\serializers.py first seen with mtime 1565342863.3883898
+DEBUG:django.utils.autoreload:File D:\Progarm\Anaconda3\Lib\site-packages\django\contrib\messages\storage\session.py first seen with mtime 1565342861.676822
+DEBUG:django.utils.autoreload:File D:\Progarm\Anaconda3\Lib\site-packages\django\contrib\messages\storage\fallback.py first seen with mtime 1565342861.6723256
+DEBUG:django.utils.autoreload:File D:\Progarm\Anaconda3\Lib\netrc.py first seen with mtime 1553548865.0
+DEBUG:django.utils.autoreload:File D:\Progarm\Anaconda3\Lib\encodings\charmap.py first seen with mtime 1553548865.0
+INFO:django.server:"POST /uploadFile/ HTTP/1.1" 200 21
+INFO:django.server:"POST /uploadFile/ HTTP/1.1" 200 21
+DEBUG:django.utils.autoreload:File D:\wxServer\fileserver\app\views.py previous mtime: 1566273895.2292218, current mtime: 1566284619.699655
+DEBUG:django.utils.autoreload:D:\wxServer\fileserver\app\views.py notified as changed. Signal results: [(<function translation_file_changed at 0x00000210539FD158>, None)].
+INFO:django.utils.autoreload:D:\wxServer\fileserver\app\views.py changed, reloading.
+DEBUG:django.utils.autoreload:File D:\Progarm\Anaconda3\Lib\site-packages\django\contrib\messages\utils.py first seen with mtime 1565342861.6500058
+DEBUG:django.utils.autoreload:File D:\Progarm\Anaconda3\Lib\site-packages\django\contrib\messages\storage\base.py first seen with mtime 1565342861.6624057
+DEBUG:django.utils.autoreload:File D:\Progarm\Anaconda3\Lib\shlex.py first seen with mtime 1553548865.0
+DEBUG:django.utils.autoreload:File D:\Progarm\Anaconda3\Lib\netrc.py first seen with mtime 1553548865.0
+DEBUG:django.utils.autoreload:File D:\Progarm\Anaconda3\Lib\site-packages\django\contrib\messages\storage\fallback.py first seen with mtime 1565342861.6723256
+DEBUG:django.utils.autoreload:File D:\Progarm\Anaconda3\Lib\encodings\charmap.py first seen with mtime 1553548865.0
+DEBUG:django.utils.autoreload:File D:\Progarm\Anaconda3\Lib\site-packages\django\contrib\messages\storage\session.py first seen with mtime 1565342861.676822
+DEBUG:django.utils.autoreload:File D:\Progarm\Anaconda3\Lib\site-packages\django\contrib\messages\storage\cookie.py first seen with mtime 1565342861.667364
+DEBUG:django.utils.autoreload:File D:\Progarm\Anaconda3\Lib\site-packages\django\contrib\sessions\serializers.py first seen with mtime 1565342863.3883898
+INFO:django.server:"POST /uploadFile/ HTTP/1.1" 200 21
+DEBUG:django.utils.autoreload:File D:\wxServer\fileserver\app\views.py previous mtime: 1566284619.699655, current mtime: 1566284733.8113332
+DEBUG:django.utils.autoreload:D:\wxServer\fileserver\app\views.py notified as changed. Signal results: [(<function translation_file_changed at 0x000002022B8FD158>, None)].
+INFO:django.utils.autoreload:D:\wxServer\fileserver\app\views.py changed, reloading.
+DEBUG:django.utils.autoreload:File D:\Progarm\Anaconda3\Lib\site-packages\django\contrib\messages\storage\session.py first seen with mtime 1565342861.676822
+DEBUG:django.utils.autoreload:File D:\Progarm\Anaconda3\Lib\site-packages\django\contrib\sessions\serializers.py first seen with mtime 1565342863.3883898
+DEBUG:django.utils.autoreload:File D:\Progarm\Anaconda3\Lib\netrc.py first seen with mtime 1553548865.0
+DEBUG:django.utils.autoreload:File D:\Progarm\Anaconda3\Lib\shlex.py first seen with mtime 1553548865.0
+DEBUG:django.utils.autoreload:File D:\Progarm\Anaconda3\Lib\site-packages\django\contrib\messages\storage\fallback.py first seen with mtime 1565342861.6723256
+DEBUG:django.utils.autoreload:File D:\Progarm\Anaconda3\Lib\site-packages\django\contrib\messages\storage\base.py first seen with mtime 1565342861.6624057
+DEBUG:django.utils.autoreload:File D:\Progarm\Anaconda3\Lib\site-packages\django\contrib\messages\utils.py first seen with mtime 1565342861.6500058
+DEBUG:django.utils.autoreload:File D:\Progarm\Anaconda3\Lib\site-packages\django\contrib\messages\storage\cookie.py first seen with mtime 1565342861.667364
+DEBUG:django.utils.autoreload:File D:\Progarm\Anaconda3\Lib\encodings\charmap.py first seen with mtime 1553548865.0
+INFO:django.server:"POST /uploadFile/ HTTP/1.1" 200 21
+INFO:django.server:"POST /uploadFile/ HTTP/1.1" 200 21
+DEBUG:django.utils.autoreload:File D:\Progarm\Anaconda3\Lib\site-packages\django\contrib\messages\storage\cookie.py first seen with mtime 1565342861.667364
+DEBUG:django.utils.autoreload:File D:\Progarm\Anaconda3\Lib\netrc.py first seen with mtime 1553548865.0
+DEBUG:django.utils.autoreload:File D:\Progarm\Anaconda3\Lib\site-packages\django\contrib\messages\storage\base.py first seen with mtime 1565342861.6624057
+DEBUG:django.utils.autoreload:File D:\Progarm\Anaconda3\Lib\site-packages\django\contrib\sessions\serializers.py first seen with mtime 1565342863.3883898
+DEBUG:django.utils.autoreload:File D:\Progarm\Anaconda3\Lib\site-packages\django\contrib\messages\storage\session.py first seen with mtime 1565342861.676822
+DEBUG:django.utils.autoreload:File D:\Progarm\Anaconda3\Lib\site-packages\django\contrib\messages\utils.py first seen with mtime 1565342861.6500058
+DEBUG:django.utils.autoreload:File D:\Progarm\Anaconda3\Lib\shlex.py first seen with mtime 1553548865.0
+DEBUG:django.utils.autoreload:File D:\Progarm\Anaconda3\Lib\encodings\charmap.py first seen with mtime 1553548865.0
+DEBUG:django.utils.autoreload:File D:\Progarm\Anaconda3\Lib\site-packages\django\contrib\messages\storage\fallback.py first seen with mtime 1565342861.6723256
+INFO:django.server:"POST /uploadFile/ HTTP/1.1" 200 21
+DEBUG:django.utils.autoreload:File D:\Progarm\Anaconda3\Lib\site-packages\django\contrib\messages\utils.py first seen with mtime 1565342861.6500058
+DEBUG:django.utils.autoreload:File D:\Progarm\Anaconda3\Lib\shlex.py first seen with mtime 1553548865.0
+DEBUG:django.utils.autoreload:File D:\Progarm\Anaconda3\Lib\site-packages\django\contrib\messages\storage\fallback.py first seen with mtime 1565342861.6723256
+DEBUG:django.utils.autoreload:File D:\Progarm\Anaconda3\Lib\site-packages\django\contrib\messages\storage\session.py first seen with mtime 1565342861.676822
+DEBUG:django.utils.autoreload:File D:\Progarm\Anaconda3\Lib\encodings\charmap.py first seen with mtime 1553548865.0
+DEBUG:django.utils.autoreload:File D:\Progarm\Anaconda3\Lib\site-packages\django\contrib\sessions\serializers.py first seen with mtime 1565342863.3883898
+DEBUG:django.utils.autoreload:File D:\Progarm\Anaconda3\Lib\site-packages\django\contrib\messages\storage\cookie.py first seen with mtime 1565342861.667364
+DEBUG:django.utils.autoreload:File D:\Progarm\Anaconda3\Lib\netrc.py first seen with mtime 1553548865.0
+DEBUG:django.utils.autoreload:File D:\Progarm\Anaconda3\Lib\site-packages\django\contrib\messages\storage\base.py first seen with mtime 1565342861.6624057
+INFO:django.server:"POST /uploadFile01/ HTTP/1.1" 200 21
+INFO:django.server:"GET /bh01/?formula=3%2B3 HTTP/1.1" 200 131
+DEBUG:django.utils.autoreload:File D:\Progarm\Anaconda3\Lib\site-packages\PIL\TiffTags.py first seen with mtime 1546712771.0
+DEBUG:django.utils.autoreload:File D:\Progarm\Anaconda3\Lib\site-packages\PIL\GimpGradientFile.py first seen with mtime 1546712771.0
+DEBUG:django.utils.autoreload:File D:\Progarm\Anaconda3\Lib\site-packages\PIL\JpegPresets.py first seen with mtime 1546712771.0
+DEBUG:django.utils.autoreload:File D:\Progarm\Anaconda3\Lib\site-packages\PIL\PaletteFile.py first seen with mtime 1546712771.0
+DEBUG:django.utils.autoreload:File D:\Progarm\Anaconda3\Lib\site-packages\PIL\ImageChops.py first seen with mtime 1546712771.0
+DEBUG:django.utils.autoreload:File D:\Progarm\Anaconda3\Lib\site-packages\PIL\BmpImagePlugin.py first seen with mtime 1546712771.0
+DEBUG:django.utils.autoreload:File D:\Progarm\Anaconda3\Lib\site-packages\PIL\ImageFile.py first seen with mtime 1546712836.0
+DEBUG:django.utils.autoreload:File D:\Progarm\Anaconda3\Lib\site-packages\PIL\JpegImagePlugin.py first seen with mtime 1546712771.0
+DEBUG:django.utils.autoreload:File D:\Progarm\Anaconda3\Lib\site-packages\PIL\TiffImagePlugin.py first seen with mtime 1546775698.0
+DEBUG:django.utils.autoreload:File D:\Progarm\Anaconda3\Lib\site-packages\PIL\GimpPaletteFile.py first seen with mtime 1546712771.0
+DEBUG:django.utils.autoreload:File D:\Progarm\Anaconda3\Lib\site-packages\PIL\ImagePalette.py first seen with mtime 1546712771.0
+DEBUG:django.utils.autoreload:File D:\Progarm\Anaconda3\Lib\site-packages\PIL\ImageSequence.py first seen with mtime 1546712771.0
+DEBUG:django.utils.autoreload:File D:\Progarm\Anaconda3\Lib\site-packages\PIL\GifImagePlugin.py first seen with mtime 1546775698.0
+DEBUG:django.utils.autoreload:File D:\Progarm\Anaconda3\Lib\site-packages\PIL\PpmImagePlugin.py first seen with mtime 1546712771.0
+INFO:django.server:"GET /media/wx5958ef33e1aeaf56.o6zAJs7eDvKwg0bUs9EWfBZf4Pz8.fjnibcEQe0i68ce19a79895cd9be40e897f6e363c325.jpg_bh.png HTTP/1.1" 200 138128
+DEBUG:django.utils.autoreload:File D:\Progarm\Anaconda3\Lib\site-packages\PIL\PngImagePlugin.py first seen with mtime 1546714852.0
+INFO:django.server:"POST /uploadFile/ HTTP/1.1" 200 21
+DEBUG:django.utils.autoreload:File D:\wxServer\fileserver\app\color.py previous mtime: 1566272814.5302162, current mtime: 1566295377.472012
+DEBUG:django.utils.autoreload:D:\wxServer\fileserver\app\color.py notified as changed. Signal results: [(<function translation_file_changed at 0x000001EDFAA0D158>, None)].
+INFO:django.utils.autoreload:D:\wxServer\fileserver\app\color.py changed, reloading.
+INFO:django.utils.autoreload:D:\wxServer\fileserver\app\views.py changed, reloading.
+INFO:django.utils.autoreload:D:\wxServer\fileserver\app\views.py changed, reloading.
+INFO:django.utils.autoreload:D:\wxServer\fileserver\app\views.py changed, reloading.
+INFO:django.utils.autoreload:D:\wxServer\fileserver\app\views.py changed, reloading.
+INFO:django.utils.autoreload:D:\wxServer\fileserver\app\views.py changed, reloading.
+INFO:django.utils.autoreload:D:\wxServer\fileserver\app\views.py changed, reloading.
+INFO:django.utils.autoreload:D:\wxServer\fileserver\app\views.py changed, reloading.
+INFO:django.utils.autoreload:D:\wxServer\fileserver\app\views.py changed, reloading.
+INFO:django.utils.autoreload:D:\wxServer\fileserver\app\views.py changed, reloading.
+INFO:django.utils.autoreload:D:\wxServer\fileserver\app\views.py changed, reloading.
+INFO:django.utils.autoreload:D:\wxServer\fileserver\app\views.py changed, reloading.
+INFO:django.utils.autoreload:D:\wxServer\fileserver\app\views.py changed, reloading.
+INFO:django.utils.autoreload:D:\wxServer\fileserver\app\views.py changed, reloading.
+ERROR:root:Unable to save D:\wxServer\fileserver\media\wx5958ef33e1aeaf56.o6zAJs7eDvKwg0bUs9EWfBZf4Pz8.Ad6gYup6LlWO8ce19a79895cd9be40e897f6e363c325.jpg_no_bg.png due to missing api key
+ERROR:root:Unable to save D:\wxServer\fileserver\media\wx5958ef33e1aeaf56.o6zAJs7eDvKwg0bUs9EWfBZf4Pz8.Lh00niyPLEWy8ce19a79895cd9be40e897f6e363c325.jpg_no_bg.png due to missing api key
+ERROR:root:Unable to save D:\wxServer\fileserver\media\wx5958ef33e1aeaf56.o6zAJs7eDvKwg0bUs9EWfBZf4Pz8.2rf6e7DcsDed8ce19a79895cd9be40e897f6e363c325.jpg_no_bg.png due to missing api key
+ERROR:root:Unable to save D:\wxServer\fileserver\media\wx5958ef33e1aeaf56.o6zAJs7eDvKwg0bUs9EWfBZf4Pz8.LtYfXYYFlAEy8ce19a79895cd9be40e897f6e363c325.jpg_no_bg.png due to api key invalid
+ERROR:root:Unable to save D:\wxServer\fileserver\media\wx5958ef33e1aeaf56.o6zAJs7eDvKwg0bUs9EWfBZf4Pz8.LtYfXYYFlAEy8ce19a79895cd9be40e897f6e363c325.jpg_no_bg.png due to api key invalid
+ERROR:root:Unable to save D:\wxServer\fileserver\media\wx5958ef33e1aeaf56.o6zAJs7eDvKwg0bUs9EWfBZf4Pz8.3UwJDxkXtraU8ce19a79895cd9be40e897f6e363c325.jpg_no_bg.png due to missing api key
+ERROR:root:Unable to save D:\wxServer\fileserver\media\wx5958ef33e1aeaf56.o6zAJs7eDvKwg0bUs9EWfBZf4Pz8.X5Iph4PzVI3o8ce19a79895cd9be40e897f6e363c325.jpg_no_bg.png due to missing api key
+INFO:django.utils.autoreload:D:\wxServer\fileserver\fileserver\views.py changed, reloading.
+ERROR:root:Unable to save D:\wxServer\fileserver\media\wx5958ef33e1aeaf56.o6zAJs7eDvKwg0bUs9EWfBZf4Pz8.K4OcPYI9VNWy8ce19a79895cd9be40e897f6e363c325.jpg_no_bg.png due to api key invalid
+ERROR:django.request:Internal Server Error: /uploadFile01/
+Traceback (most recent call last):
+  File "D:\Progarm\Anaconda3\lib\site-packages\django\core\handlers\exception.py", line 34, in inner
+    response = get_response(request)
+  File "D:\Progarm\Anaconda3\lib\site-packages\django\core\handlers\base.py", line 126, in _get_response
+    "returned None instead." % (callback.__module__, view_name)
+ValueError: The view fileserver.views.uploadfile01 didn't return an HttpResponse object. It returned None instead.
+WARNING:django.request:Not Found: /favicon.ico
+INFO:django.utils.autoreload:D:\wxServer\fileserver\app\urls.py changed, reloading.
+ERROR:django.request:Internal Server Error: /uploadFile01/
+Traceback (most recent call last):
+  File "D:\Progarm\Anaconda3\lib\site-packages\urllib3\connectionpool.py", line 600, in urlopen
+    chunked=chunked)
+  File "D:\Progarm\Anaconda3\lib\site-packages\urllib3\connectionpool.py", line 384, in _make_request
+    six.raise_from(e, None)
+  File "<string>", line 2, in raise_from
+  File "D:\Progarm\Anaconda3\lib\site-packages\urllib3\connectionpool.py", line 380, in _make_request
+    httplib_response = conn.getresponse()
+  File "D:\Progarm\Anaconda3\lib\http\client.py", line 1321, in getresponse
+    response.begin()
+  File "D:\Progarm\Anaconda3\lib\http\client.py", line 296, in begin
+    version, status, reason = self._read_status()
+  File "D:\Progarm\Anaconda3\lib\http\client.py", line 257, in _read_status
+    line = str(self.fp.readline(_MAXLINE + 1), "iso-8859-1")
+  File "D:\Progarm\Anaconda3\lib\socket.py", line 589, in readinto
+    return self._sock.recv_into(b)
+  File "D:\Progarm\Anaconda3\lib\site-packages\urllib3\contrib\pyopenssl.py", line 299, in recv_into
+    raise SocketError(str(e))
+OSError: (10060, 'WSAETIMEDOUT')
+
+During handling of the above exception, another exception occurred:
+
+Traceback (most recent call last):
+  File "D:\Progarm\Anaconda3\lib\site-packages\requests\adapters.py", line 449, in send
+    timeout=timeout
+  File "D:\Progarm\Anaconda3\lib\site-packages\urllib3\connectionpool.py", line 638, in urlopen
+    _stacktrace=sys.exc_info()[2])
+  File "D:\Progarm\Anaconda3\lib\site-packages\urllib3\util\retry.py", line 367, in increment
+    raise six.reraise(type(error), error, _stacktrace)
+  File "D:\Progarm\Anaconda3\lib\site-packages\urllib3\packages\six.py", line 685, in reraise
+    raise value.with_traceback(tb)
+  File "D:\Progarm\Anaconda3\lib\site-packages\urllib3\connectionpool.py", line 600, in urlopen
+    chunked=chunked)
+  File "D:\Progarm\Anaconda3\lib\site-packages\urllib3\connectionpool.py", line 384, in _make_request
+    six.raise_from(e, None)
+  File "<string>", line 2, in raise_from
+  File "D:\Progarm\Anaconda3\lib\site-packages\urllib3\connectionpool.py", line 380, in _make_request
+    httplib_response = conn.getresponse()
+  File "D:\Progarm\Anaconda3\lib\http\client.py", line 1321, in getresponse
+    response.begin()
+  File "D:\Progarm\Anaconda3\lib\http\client.py", line 296, in begin
+    version, status, reason = self._read_status()
+  File "D:\Progarm\Anaconda3\lib\http\client.py", line 257, in _read_status
+    line = str(self.fp.readline(_MAXLINE + 1), "iso-8859-1")
+  File "D:\Progarm\Anaconda3\lib\socket.py", line 589, in readinto
+    return self._sock.recv_into(b)
+  File "D:\Progarm\Anaconda3\lib\site-packages\urllib3\contrib\pyopenssl.py", line 299, in recv_into
+    raise SocketError(str(e))
+urllib3.exceptions.ProtocolError: ('Connection aborted.', OSError("(10060, 'WSAETIMEDOUT')"))
+
+During handling of the above exception, another exception occurred:
+
+Traceback (most recent call last):
+  File "D:\Progarm\Anaconda3\lib\site-packages\django\core\handlers\exception.py", line 34, in inner
+    response = get_response(request)
+  File "D:\Progarm\Anaconda3\lib\site-packages\django\core\handlers\base.py", line 115, in _get_response
+    response = self.process_exception_by_middleware(e, request)
+  File "D:\Progarm\Anaconda3\lib\site-packages\django\core\handlers\base.py", line 113, in _get_response
+    response = wrapped_callback(request, *callback_args, **callback_kwargs)
+  File "D:\Progarm\Anaconda3\lib\site-packages\django\views\decorators\csrf.py", line 54, in wrapped_view
+    return view_func(*args, **kwargs)
+  File "D:\wxServer\fileserver\fileserver\views.py", line 53, in uploadfile01
+    rmbg.remove_background_from_img_file(os.path.join(path, file.name))
+  File "D:\Progarm\Anaconda3\lib\site-packages\removebg\removebg.py", line 26, in remove_background_from_img_file
+    headers={'X-Api-Key': self.__api_key})
+  File "D:\Progarm\Anaconda3\lib\site-packages\requests\api.py", line 116, in post
+    return request('post', url, data=data, json=json, **kwargs)
+  File "D:\Progarm\Anaconda3\lib\site-packages\requests\api.py", line 60, in request
+    return session.request(method=method, url=url, **kwargs)
+  File "D:\Progarm\Anaconda3\lib\site-packages\requests\sessions.py", line 533, in request
+    resp = self.send(prep, **send_kwargs)
+  File "D:\Progarm\Anaconda3\lib\site-packages\requests\sessions.py", line 646, in send
+    r = adapter.send(request, **kwargs)
+  File "D:\Progarm\Anaconda3\lib\site-packages\requests\adapters.py", line 498, in send
+    raise ConnectionError(err, request=request)
+requests.exceptions.ConnectionError: ('Connection aborted.', OSError("(10060, 'WSAETIMEDOUT')"))
+ERROR:django.request:Internal Server Error: /uploadFile01/
+Traceback (most recent call last):
+  File "D:\Progarm\Anaconda3\lib\site-packages\urllib3\connectionpool.py", line 600, in urlopen
+    chunked=chunked)
+  File "D:\Progarm\Anaconda3\lib\site-packages\urllib3\connectionpool.py", line 384, in _make_request
+    six.raise_from(e, None)
+  File "<string>", line 2, in raise_from
+  File "D:\Progarm\Anaconda3\lib\site-packages\urllib3\connectionpool.py", line 380, in _make_request
+    httplib_response = conn.getresponse()
+  File "D:\Progarm\Anaconda3\lib\http\client.py", line 1321, in getresponse
+    response.begin()
+  File "D:\Progarm\Anaconda3\lib\http\client.py", line 296, in begin
+    version, status, reason = self._read_status()
+  File "D:\Progarm\Anaconda3\lib\http\client.py", line 257, in _read_status
+    line = str(self.fp.readline(_MAXLINE + 1), "iso-8859-1")
+  File "D:\Progarm\Anaconda3\lib\socket.py", line 589, in readinto
+    return self._sock.recv_into(b)
+  File "D:\Progarm\Anaconda3\lib\site-packages\urllib3\contrib\pyopenssl.py", line 299, in recv_into
+    raise SocketError(str(e))
+OSError: (10060, 'WSAETIMEDOUT')
+
+During handling of the above exception, another exception occurred:
+
+Traceback (most recent call last):
+  File "D:\Progarm\Anaconda3\lib\site-packages\requests\adapters.py", line 449, in send
+    timeout=timeout
+  File "D:\Progarm\Anaconda3\lib\site-packages\urllib3\connectionpool.py", line 638, in urlopen
+    _stacktrace=sys.exc_info()[2])
+  File "D:\Progarm\Anaconda3\lib\site-packages\urllib3\util\retry.py", line 367, in increment
+    raise six.reraise(type(error), error, _stacktrace)
+  File "D:\Progarm\Anaconda3\lib\site-packages\urllib3\packages\six.py", line 685, in reraise
+    raise value.with_traceback(tb)
+  File "D:\Progarm\Anaconda3\lib\site-packages\urllib3\connectionpool.py", line 600, in urlopen
+    chunked=chunked)
+  File "D:\Progarm\Anaconda3\lib\site-packages\urllib3\connectionpool.py", line 384, in _make_request
+    six.raise_from(e, None)
+  File "<string>", line 2, in raise_from
+  File "D:\Progarm\Anaconda3\lib\site-packages\urllib3\connectionpool.py", line 380, in _make_request
+    httplib_response = conn.getresponse()
+  File "D:\Progarm\Anaconda3\lib\http\client.py", line 1321, in getresponse
+    response.begin()
+  File "D:\Progarm\Anaconda3\lib\http\client.py", line 296, in begin
+    version, status, reason = self._read_status()
+  File "D:\Progarm\Anaconda3\lib\http\client.py", line 257, in _read_status
+    line = str(self.fp.readline(_MAXLINE + 1), "iso-8859-1")
+  File "D:\Progarm\Anaconda3\lib\socket.py", line 589, in readinto
+    return self._sock.recv_into(b)
+  File "D:\Progarm\Anaconda3\lib\site-packages\urllib3\contrib\pyopenssl.py", line 299, in recv_into
+    raise SocketError(str(e))
+urllib3.exceptions.ProtocolError: ('Connection aborted.', OSError("(10060, 'WSAETIMEDOUT')"))
+
+During handling of the above exception, another exception occurred:
+
+Traceback (most recent call last):
+  File "D:\Progarm\Anaconda3\lib\site-packages\django\core\handlers\exception.py", line 34, in inner
+    response = get_response(request)
+  File "D:\Progarm\Anaconda3\lib\site-packages\django\core\handlers\base.py", line 115, in _get_response
+    response = self.process_exception_by_middleware(e, request)
+  File "D:\Progarm\Anaconda3\lib\site-packages\django\core\handlers\base.py", line 113, in _get_response
+    response = wrapped_callback(request, *callback_args, **callback_kwargs)
+  File "D:\Progarm\Anaconda3\lib\site-packages\django\views\decorators\csrf.py", line 54, in wrapped_view
+    return view_func(*args, **kwargs)
+  File "D:\wxServer\fileserver\fileserver\views.py", line 53, in uploadfile01
+    rmbg.remove_background_from_img_file(os.path.join(path, file.name))
+  File "D:\Progarm\Anaconda3\lib\site-packages\removebg\removebg.py", line 26, in remove_background_from_img_file
+    headers={'X-Api-Key': self.__api_key})
+  File "D:\Progarm\Anaconda3\lib\site-packages\requests\api.py", line 116, in post
+    return request('post', url, data=data, json=json, **kwargs)
+  File "D:\Progarm\Anaconda3\lib\site-packages\requests\api.py", line 60, in request
+    return session.request(method=method, url=url, **kwargs)
+  File "D:\Progarm\Anaconda3\lib\site-packages\requests\sessions.py", line 533, in request
+    resp = self.send(prep, **send_kwargs)
+  File "D:\Progarm\Anaconda3\lib\site-packages\requests\sessions.py", line 646, in send
+    r = adapter.send(request, **kwargs)
+  File "D:\Progarm\Anaconda3\lib\site-packages\requests\adapters.py", line 498, in send
+    raise ConnectionError(err, request=request)
+requests.exceptions.ConnectionError: ('Connection aborted.', OSError("(10060, 'WSAETIMEDOUT')"))
+ERROR:root:Unable to save D:\wxServer\fileserver\media\wx5958ef33e1aeaf56.o6zAJs7eDvKwg0bUs9EWfBZf4Pz8.Zquf7vbFUP1g8ce19a79895cd9be40e897f6e363c325.jpg_no_bg.png due to missing api key
+ERROR:django.request:Internal Server Error: /bh01/
+Traceback (most recent call last):
+  File "D:\Progarm\Anaconda3\lib\site-packages\django\utils\datastructures.py", line 78, in __getitem__
+    list_ = super().__getitem__(key)
+KeyError: 'formula'
+
+During handling of the above exception, another exception occurred:
+
+Traceback (most recent call last):
+  File "D:\Progarm\Anaconda3\lib\site-packages\django\core\handlers\exception.py", line 34, in inner
+    response = get_response(request)
+  File "D:\Progarm\Anaconda3\lib\site-packages\django\core\handlers\base.py", line 115, in _get_response
+    response = self.process_exception_by_middleware(e, request)
+  File "D:\Progarm\Anaconda3\lib\site-packages\django\core\handlers\base.py", line 113, in _get_response
+    response = wrapped_callback(request, *callback_args, **callback_kwargs)
+  File "D:\wxServer\fileserver\fileserver\views.py", line 64, in wx_data01
+    formula = request.GET['formula']
+  File "D:\Progarm\Anaconda3\lib\site-packages\django\utils\datastructures.py", line 80, in __getitem__
+    raise MultiValueDictKeyError(key)
+django.utils.datastructures.MultiValueDictKeyError: 'formula'
+ERROR:root:Unable to save D:\wxServer\fileserver\media\wx5958ef33e1aeaf56.o6zAJs7eDvKwg0bUs9EWfBZf4Pz8.Zquf7vbFUP1g8ce19a79895cd9be40e897f6e363c325.jpg_no_bg.png due to missing api key
+ERROR:root:Unable to save D:\wxServer\fileserver\media\wx5958ef33e1aeaf56.o6zAJs7eDvKwg0bUs9EWfBZf4Pz8.8Bl8fbzST0UN8ce19a79895cd9be40e897f6e363c325.jpg_no_bg.png due to missing api key
+ERROR:root:Unable to save D:\wxServer\fileserver\media\wx5958ef33e1aeaf56.o6zAJs7eDvKwg0bUs9EWfBZf4Pz8.m6sqkN44FX898ce19a79895cd9be40e897f6e363c325.jpg_no_bg.png due to missing api key
+INFO:django.utils.autoreload:D:\wxServer\fileserver\fileserver\views.py changed, reloading.
+ERROR:root:Unable to save D:\wxServer\fileserver\media\wx5958ef33e1aeaf56.o6zAJs7eDvKwg0bUs9EWfBZf4Pz8.r6C6a1JfUp8d8ce19a79895cd9be40e897f6e363c325.jpg_no_bg.png due to missing api key
+INFO:django.utils.autoreload:D:\wxServer\fileserver\fileserver\views.py changed, reloading.
+ERROR:root:Unable to save D:\wxServer\fileserver\media\wx5958ef33e1aeaf56.o6zAJs7eDvKwg0bUs9EWfBZf4Pz8.r6C6a1JfUp8d8ce19a79895cd9be40e897f6e363c325.jpg_no_bg.png due to missing api key
+INFO:django.utils.autoreload:D:\wxServer\fileserver\fileserver\views.py changed, reloading.
+ERROR:root:Unable to save D:\wxServer\fileserver\media\wx5958ef33e1aeaf56.o6zAJs7eDvKwg0bUs9EWfBZf4Pz8.VOFSpsH0jQqx8ce19a79895cd9be40e897f6e363c325.jpg_no_bg.png due to missing api key
+ERROR:root:Unable to save D:\wxServer\fileserver\media\wx5958ef33e1aeaf56.o6zAJs7eDvKwg0bUs9EWfBZf4Pz8.fyp2lA8MOHIf8ce19a79895cd9be40e897f6e363c325.jpg_no_bg.png due to missing api key
+INFO:django.utils.autoreload:D:\wxServer\fileserver\fileserver\views.py changed, reloading.
+ERROR:root:Unable to save D:\wxServer\fileserver\media\wx5958ef33e1aeaf56.o6zAJs7eDvKwg0bUs9EWfBZf4Pz8.wEut7QEiW1DS8ce19a79895cd9be40e897f6e363c325.jpg_no_bg.png due to missing api key
+ERROR:django.request:Internal Server Error: /api/
+Traceback (most recent call last):
+  File "D:\Progarm\Anaconda3\lib\site-packages\django\utils\datastructures.py", line 78, in __getitem__
+    list_ = super().__getitem__(key)
+KeyError: 'api_data'
+
+During handling of the above exception, another exception occurred:
+
+Traceback (most recent call last):
+  File "D:\Progarm\Anaconda3\lib\site-packages\django\core\handlers\exception.py", line 34, in inner
+    response = get_response(request)
+  File "D:\Progarm\Anaconda3\lib\site-packages\django\core\handlers\base.py", line 115, in _get_response
+    response = self.process_exception_by_middleware(e, request)
+  File "D:\Progarm\Anaconda3\lib\site-packages\django\core\handlers\base.py", line 113, in _get_response
+    response = wrapped_callback(request, *callback_args, **callback_kwargs)
+  File "D:\wxServer\fileserver\fileserver\views.py", line 55, in bg_api
+    api = request.GET['api_data']
+  File "D:\Progarm\Anaconda3\lib\site-packages\django\utils\datastructures.py", line 80, in __getitem__
+    raise MultiValueDictKeyError(key)
+django.utils.datastructures.MultiValueDictKeyError: 'api_data'
+INFO:django.utils.autoreload:D:\wxServer\fileserver\fileserver\color.py changed, reloading.
+WARNING:django.request:Not Found: /media/wx5958ef33e1aeaf56.o6zAJs7eDvKwg0bUs9EWfBZf4Pz8.ShCnauh2gBS58ce19a79895cd9be40e897f6e363c325.jpg_bh.png
+WARNING:django.request:Not Found: /media/wx5958ef33e1aeaf56.o6zAJs7eDvKwg0bUs9EWfBZf4Pz8.ShCnauh2gBS58ce19a79895cd9be40e897f6e363c325.jpg_bh.png
+WARNING:django.request:Not Found: /media/wx5958ef33e1aeaf56.o6zAJs7eDvKwg0bUs9EWfBZf4Pz8.ShCnauh2gBS58ce19a79895cd9be40e897f6e363c325.jpg_bh.png
+WARNING:django.request:Not Found: /media/wx5958ef33e1aeaf56.o6zAJs7eDvKwg0bUs9EWfBZf4Pz8.ShCnauh2gBS58ce19a79895cd9be40e897f6e363c325.jpg_bh.png
+WARNING:django.request:Not Found: /media/wx5958ef33e1aeaf56.o6zAJs7eDvKwg0bUs9EWfBZf4Pz8.ShCnauh2gBS58ce19a79895cd9be40e897f6e363c325.jpg_bh.png
+WARNING:django.request:Not Found: /media/wx5958ef33e1aeaf56.o6zAJs7eDvKwg0bUs9EWfBZf4Pz8.ShCnauh2gBS58ce19a79895cd9be40e897f6e363c325.jpg_bh.png
+INFO:django.utils.autoreload:D:\wxServer\fileserver\fileserver\urls.py changed, reloading.
+INFO:django.utils.autoreload:D:\wxServer\fileserver\app\color.py changed, reloading.
+INFO:django.utils.autoreload:D:\wxServer\fileserver\fileserver\views.py changed, reloading.
